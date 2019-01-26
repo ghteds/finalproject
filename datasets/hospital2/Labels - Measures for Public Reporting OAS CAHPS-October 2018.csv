@@ -1,0 +1,31 @@
+Variable ID,Label,Notes
+CCN,CMS Certification Number,
+Name ,Facility Name ,
+Address,Address,
+City,City,
+County,County,
+State,State,
+Zip,Zip,
+Phone,Telephone,
+FStaff_T,Patients who reported that staff definitely gave care in a professional way and the facility was clean,"OAS CAHPS Top-box Measure, Facilities and Staff"
+FStaff_M,Patients who reported that staff somewhat gave care in a professional way or the facility was somewhat clean,"OAS CAHPS Middle-box Measure, Facilities and Staff"
+FStaff_B,Patients who reported that staff did not give care in a professional way or the facility was not clean,"OAS CAHPS Bottom-box Measure, Facilities and Staff"
+FStaff_L,Facilities and staff linear mean score,"OAS CAHPS Linearized Score Measure, Facilities and Staff"
+Comm_T,Patients who reported that staff definitely communicated about what to expect during and after the procedure,"OAS CAHPS Top-box Measure, Communication about your procedure"
+Comm_M,Patients who reported that staff somewhat communicated about what to expect during and after the procedure,"OAS CAHPS Middle-box Measure, Communication about your procedure"
+Comm_B,Patients who reported that staff did not communicate about what to expect during and after the procedure,"OAS CAHPS Bottom-box Measure, Communication about your procedure"
+Comm_L,Communication about your procedure linear mean score,"OAS CAHPS Linearized Score Measure, Communication about your procedure"
+Rate_T,Patients who gave the facility a rating of 9 or 10 on a scale from 0 (lowest) to 10 (highest),"OAS CAHPS Top-box Measure, Patients' Rating of the facility"
+Rate_M,Patients who gave the facility a rating of 7 or 8 on a scale from 0 (lowest) to 10 (highest),"OAS CAHPS Middle-box Measure, Patients' Rating of the facility"
+Rate_B,Patients who gave the facility a rating of 0 to 6 on a scale from 0 (lowest) to 10 (highest),"OAS CAHPS Bottom-box Measure,Patients' Rating of the facility"
+Rate_L,Patients’ rating of the facility linear mean score,"OAS CAHPS Linearized Score Measure, Patients' Rating of the facility"
+Recom_T,Patients who reported YES they would DEFINITELY recommend the facility to family or friends.,"OAS CAHPS Top-box Measure, Patients recommending the facility"
+Recom_M,Patients who reported PROBABLY YES they would recommend the facility to family or friends.,"OAS CAHPS Middle-box Measure, Patients recommending the facility"
+Recom_B,"Patients who reported NO, they would not recommend the facility to family or friends.","OAS CAHPS Bottom-box Measure, Patients recommending the facility"
+Recom_L,Patients recommending the facility linear mean score,"OAS CAHPS Linearized Score Measure, Patients recommending the facility"
+Footnote,Footnote,
+Sample,Number of Sampled Patients,
+Comp,Number of Completed Surveys,
+RR,Survey Response Rate Percent,
+Start,Measure Start Date,
+End,Measure End Date,

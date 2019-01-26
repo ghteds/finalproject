@@ -1,0 +1,5 @@
+Measure Name,Measure ID,National payment,Number less than national payment,Number same as national payment,Number greater than national payment,Number of hospitals too few,Footnote,Measure Start Date,Measure End Date
+"Payment for heart attack patients","PAYM-30-AMI","$23,745","194","1907","200","1883","20 - State and national averages do not include VHA hospital data.","07/01/2014","06/30/2017"
+"Payment for heart failure patients","PAYM-30-HF","$16,632","420","2594","547","1005","20 - State and national averages do not include VHA hospital data.","07/01/2014","06/30/2017"
+"Risk-Standardized Payment Associated with a 30-Day Episode of Care for Pneumonia","PAYM-30-PN","$17,415","895","2423","828","480","20 - State and national averages do not include VHA hospital data.","07/01/2014","06/30/2017"
+"Payment for hip/knee replacement patients","PAYM-90-HIP-KNEE","$21,953","1037","1058","681","681","20 - State and national averages do not include VHA hospital data.","04/01/2014","03/31/2017"

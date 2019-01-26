@@ -1,0 +1,401 @@
+"CMS Certification Number","Facility Name","Address","City","County","State","Zip","Telephone","Patients who reported that staff definitely gave care in a professional way and the facility was clean","Patients who reported that staff somewhat gave care in a professional way or the facility was somewhat clean","Patients who reported that staff did not give care in a professional way or the facility was not clean","Facilities and staff linear mean score","Patients who reported that staff definitely communicated about what to expect during and after the procedure","Patients who reported that staff somewhat communicated about what to expect during and after the procedure","Patients who reported that staff did not communicate about what to expect during and after the procedure","Communication about your procedure linear mean score","Patients who gave the facility a rating of 9 or 10 on a scale from 0 (lowest) to 10 (highest)","Patients who gave the facility a rating of 7 or 8 on a scale from 0 (lowest) to 10 (highest)","Patients who gave the facility a rating of 0 to 6 on a scale from 0 (lowest) to 10 (highest)","Patients’ rating of the facility linear mean score","Patients who reported YES they would DEFINITELY recommend the facility to family or friends.","Patients who reported PROBABLY YES they would recommend the facility to family or friends.","Patients who reported NO, they would not recommend the facility to family or friends.","Patients recommending the facility linear mean score","Footnote","Number of Sampled Patients","Number of Completed Surveys","Survey Response Rate Percent","Measure Start Date","Measure End Date"
+"01C0001020","Medplex Outpatient Surgery Center","4511 Southlake Parkway","Birmingham",,"AL","35244",2059854398,,,,,,,,,,,,,,,,,"4",,,,,
+"01C0001035","The Surgery Center","1440 Hwy Dr","Oxford",,"AL","36203",2562412614,,,,,,,,,,,,,,,,,"4",,,,,
+"01C0001042","The Orthopaedic Center at Springhill","3715 Dauphin St, Ste. 503b","Mobile",,"AL","36608",2512724934,,,,,,,,,,,,,,,,,"4",,,,,
+"01C0001051","Alabama Digestive Health Endoscopy Center (ADHEC)","2010 Brookwood Medical Ctr Dr  G100","Birmingham",,"AL","35209",2058771187,,,,,,,,,,,,,,,,,"4",,,,,
+"02C0001011","Providence Surgery Center, LLC","3831 Piper St. S110","Anchorage",,"AK","99508",9073397800,,,,,,,,,,,,,,,,,"4",,,,,
+"03C0001016","Uspi Surgery Center of Peoria","13260 N 94th Dr, Suite 200","Peoria",,"AZ","85381",6232344301,97,3,0,98,88,10,2,93,86,13,1,94,82,16,2,93,,1032,289,28,04/01/2017,03/31/2018
+"03C0001045","Surgery Center of Scottsdale LLC","3131 W Peoria Ave","Phoenix",,"AZ","85029",6023751083,97,2,1,99,91,7,2,95,84,13,3,93,81,17,2,93,,854,141,17,04/01/2017,03/31/2018
+"03C0001052","Warner Park Surgery CTR LLP","604 W Warner Rd","Chandler",,"AZ","85225",4808992571,95,4,1,97,91,7,2,95,83,15,2,93,79,18,3,91,,1025,382,37,04/01/2017,03/31/2018
+"03C0001056","Surgery Center of Tempe, LLC","1940 E. Southern","Tempe",,"AZ","85282",4808207101,97,3,0,98,88,10,2,93,86,11,3,93,83,16,1,94,,977,293,30,04/01/2017,03/31/2018
+"03C0001224","Canyon Surgery Center","6036 N. 19th Ave. Ste. 100","Phoenix",,"AZ","85015",6025898000,,,,,,,,,,,,,,,,,"4",,,,,
+"03C0001247","Surgery Center of Scottsdale LLC","8962 East Desert Cove Ave","Scottsdale",,"AZ","85260",4806615232,98,1,1,99,91,7,2,94,87,11,2,95,82,14,4,92,,771,176,23,04/01/2017,03/31/2018
+"03C0001265","St Joseph Outpatient Surgery Center LLC","240 W. Thomas Rd","Phoenix",,"AZ","85013",6024063552,96,3,1,98,89,9,2,94,82,15,3,93,83,16,1,94,,1341,303,23,04/01/2017,03/31/2018
+"03C0001279","Chandler Endoscopy Center, LLC","2095 W. Pecos Rd., Suite A1","Chandler",,"AZ","85224",4802929795,96,4,0,98,91,6,3,94,89,8,3,95,86,12,2,94,,1121,334,30,04/01/2017,03/31/2018
+"03C0001286","Digestive Health Specialists Endoscopy Center Arizona, LLC","8573 East Princess Dr, Suite 117","Scottsdale",,"AZ","85255",4805132455,,,,,,,,,,,,,,,,,"4",,,,,
+"03C0001289","Carondelet St. Marys Northwest","2220 W. Orange Grove Rd","Tucson",,"AZ","85741",5208775665,,,,,,,,,,,,,,,,,"4",,,,,
+"03C0001290","Camp Lowell Surgery Center","4620 E. Camp Lowell Dr","Tucson",,"AZ","85712",5206186058,,,,,,,,,,,,,,,,,"4",,,,,
+"03C0001298","Surgical Elite of Avondale, LLC","10815 W. Mcdowell Rd. # 101","Avondale",,"AZ","85392",6234330110,97,3,0,99,90,8,2,94,84,14,2,94,80,17,3,92,,1413,312,22,04/01/2017,03/31/2018
+"03C0001302","Metro Surgery Center, L.L.C","6790 W Thunderbird Rd","Peoria",,"AZ","85381",6239791717,95,4,1,97,90,8,2,94,83,13,4,93,82,13,5,91,,788,185,23,04/01/2017,03/31/2018
+"03C0001305","Desert Ridge Outpatient Surgery Center","20940 N. Tatum Blvd. Ste. 100","Phoenix",,"AZ","85050",4805024020,97,2,1,98,90,8,2,94,88,9,3,94,86,11,3,94,,1078,365,34,04/01/2017,03/31/2018
+"03C0001356","Mountain View Surgery Center of Glendale","18555 North 79th Ave, Building C","Glendale",,"AZ","85308",6237762500,94,5,1,96,89,9,2,94,85,12,3,93,80,16,4,91,,1013,227,22,04/01/2017,03/31/2018
+"03C0001357","Mountain View Surgery Center of Gilbert","2450 East Guadalupe Rd, Suite 101","Gilbert",,"AZ","85234",4802283757,96,3,1,98,90,8,2,94,88,10,2,94,81,17,2,93,,1018,245,24,04/01/2017,03/31/2018
+"05C0001001","River City Surgery Center","75 Scripps Dr.","Sacramento",,"CA","95821",9169299431,97,2,1,98,90,8,2,94,87,10,3,94,85,13,2,94,,1364,411,30,04/01/2017,03/31/2018
+"05C0001006","San Gabriel Valley Surgical Center","1250 S. Sunset Ave # 100","West Covina",,"CA","91790",6263382319,95,4,1,97,83,12,5,89,78,18,4,91,76,21,3,90,,1195,382,32,04/01/2017,03/31/2018
+"05C0001016","Santa Rosa Ambulatory and Endoscopy Center","34 Mark West Springs Rd, Suite 100","Santa Rosa",,"CA","95403",7075413503,97,2,1,98,93,5,2,96,88,10,2,95,88,10,2,95,,1418,461,33,04/01/2017,03/31/2018
+"05C0001092","Surgicenter of Palo Alto","795 El Camino Real","Palo Alto",,"CA","94301",6503241832,98,2,0,99,90,9,1,94,89,9,2,95,90,8,2,96,,2137,605,28,04/01/2017,03/31/2018
+"05C0001133","Briggsmore Specialty Center","1409 E Briggsmore Ave","Modesto",,"CA","95355",2095504731,99,1,0,99,95,4,1,97,92,7,1,96,89,8,3,95,,1586,512,32,04/01/2017,03/31/2018
+"05C0001175","San Leandro Surgery Center","15035 East 14th St","San Leandro",,"CA","94578",5102762800,97,3,0,98,89,8,3,93,81,17,2,92,83,15,2,93,,1264,390,31,04/01/2017,03/31/2018
+"05C0001198","Healthcare Partner Ambulatory Surgery Center","2600 Redondo Ave, Suite 103","Long Beach",,"CA","90806",5629887162,,,,,,,,,,,,,,,,,"4",,,,,
+"05C0001200","Sutter Auburn Surgery Center","3123 Professional Dr, Ste, 100-A","Auburn",,"CA","95603",5308888899,98,2,0,99,94,5,1,96,88,10,2,95,89,10,1,96,,1029,458,45,04/01/2017,03/31/2018
+"05C0001205","North Anaheim Surgicenter","1154 N Euclid St","Anaheim",,"CA","92801",7146356272,97,3,0,99,91,7,2,95,88,10,2,95,87,11,2,95,,1373,501,36,04/01/2017,03/31/2018
+"05C0001236","Sutter Alhambra Surgery Center","1201 Alhambra Blvd","West Sacramento",,"CA","95816",9167338222,97,3,0,98,93,6,1,96,89,10,1,95,87,11,2,95,,1516,443,29,04/01/2017,03/31/2018
+"05C0001287","The Endoscopy Center","870 Shasta St, Suite 100","Yuba City",,"CA","95991",5306713671,,,,,,,,,,,,,,,,,"4",,,,,
+"05C0001321","El Mirador Surgical Center","1180 N. Indian Canyon #110","Palm Springs",,"CA","92262",4698936573,95,5,0,97,86,11,3,91,84,13,3,93,85,13,2,94,,1068,364,34,04/01/2017,03/31/2018
+"05C0001370","Mid Peninsula Endoscopy","50 South San Matei Dr, Ste. 400","San Mateo",,"CA","94401",6503731970,97,3,0,98,89,8,3,93,87,11,2,94,87,12,1,95,,1209,435,36,04/01/2017,03/31/2018
+"05C0001447","Coast Surgery Center, LP","3445 Pacific Coast Hwy. # 110","Torrance",,"CA","90505",3103254555,94,5,1,97,86,10,4,91,85,11,4,93,83,15,2,93,,1131,310,27,04/01/2017,03/31/2018
+"05C0001453","Chico Surgery Center","615 W. East Ave.","Chico",,"CA","95926",5308951800,94,5,1,96,86,10,4,91,78,18,4,92,82,15,3,93,,954,321,34,04/01/2017,03/31/2018
+"05C0001463","East Bay Endoscopy Center","5858 Horton St Suite 100","Emeryville",,"CA","94608",5106544554,,,,,,,,,,,,,,,,,"4",,,,,
+"05C0001481","Pain Diagnostic & Treaatment Center","2805 J. St, Suite 200","Sacramento",,"CA","95816",9162318793,97,3,0,98,91,6,3,94,86,11,3,94,83,15,2,93,,1103,306,28,04/01/2017,03/31/2018
+"05C0001493","North State Surgery Center","2184 Ct St.","Redding",,"CA","96001",5302257417,,,,,,,,,,,,,,,,,"4",,,,,
+"05C0001505","Magnolia Surgery Center","14571 Magnolia St, # 107","Westminster",,"CA","92683",7149039039,94,6,0,97,86,10,4,91,69,24,7,88,71,24,5,88,,1454,300,21,04/01/2017,03/31/2018
+"05C0001508","Ambulatory Surgery Center of Stockton","2338 N California Strret","Stockton",,"CA","95204",2099449100,,,,,,,,,,,,,,,,,"4",,,,,
+"05C0001515","Sequoia Surgical Pavilion","2405 Shadelands Dr, Suite 200","Walnut Creek",,"CA","94598",9252803814,98,2,0,99,93,5,2,96,92,6,2,96,90,8,2,95,,1242,369,30,04/01/2017,03/31/2018
+"05C0001534","Folsom Surgery Center","1651 Creekside Dr. Ste. 100","Folsom",,"CA","95630",9166731990,97,3,0,99,92,6,2,95,88,11,1,95,89,10,1,96,,1192,386,32,04/01/2017,03/31/2018
+"05C0001558","Pacific End-Surgical Center","3445 Pacific Coast Hwy. # 120","Torrance",,"CA","90505",3103261666,96,4,0,98,87,9,4,91,78,21,1,92,77,21,2,91,,825,271,33,04/01/2017,03/31/2018
+"05C0001572","Roseville Surgery Center","1420 E. Roseville Pkwy # 100","Roseville",,"CA","95661",9166772488,96,3,1,98,90,9,1,94,82,15,3,93,79,18,3,92,,1363,450,33,04/01/2017,03/31/2018
+"05C0001596","Tresanti Surgical Center","5201 Norris Canyon Rd., # 100","San Ramon",,"CA","94583",9259730605,,,,,,,,,,,,,,,,,"4",,,,,
+"05C0001608","South Placer Surgery Center","8723 Sierra College Blvd","Roseville",,"CA","95661",9166775070,97,2,1,98,91,7,2,94,87,9,4,94,88,10,2,95,,1260,487,39,04/01/2017,03/31/2018
+"05C0001627","San Francisco Endoscopy Center","3468 California St","San Francisco",,"CA","94118",4153457500,,,,,,,,,,,,,,,,,"4",,,,,
+"05C0001635","Capitol City Surgery Center","1800 Tribute Rd. #100","Sacramento",,"CA","95815",9169252700,,,,,,,,,,,,,,,,,"4",,,,,
+"05C0001640","Sutter Amador Surgery Center, LLC","223 Clinton Rd. Ste. 204","Jackson",,"CA","95642",2092235938,98,2,0,99,92,6,2,95,88,11,1,95,83,14,3,92,,947,385,41,04/01/2017,03/31/2018
+"05C0001643","North State Surgery Center","2175 Rosaline Ave. Ste. A","Redding",,"CA","96001",5302257417,97,3,0,98,90,8,2,94,88,11,1,95,86,11,3,94,,1129,402,36,04/01/2017,03/31/2018
+"05C0001663","Skyway Surgery Center","121 Raley Blvd","Chico",,"CA","95928",5302302007,98,2,0,99,91,8,1,95,91,8,1,96,89,9,2,95,,1197,559,47,04/01/2017,03/31/2018
+"05C0001711","St. Joseph's Surgery Center","1800 N. California St. Ste. 1","Stockton",,"CA","95204",2099448393,97,3,0,98,90,6,4,93,87,11,2,95,87,12,1,95,,1180,281,24,04/01/2017,03/31/2018
+"05C0001719","Scripps Clinic","3811 Valley Centre Dr.","San Diego",,"CA","92130",8586786955,,,,,,,,,,,,,,,,,"4",,,,,
+"05C0001734","Sutter Medical Foundatino North - ASC","460 Plumas Blvd., Suite 202","Yuba City",,"CA","95991",5307495516,97,3,0,99,93,6,1,96,89,9,2,95,87,10,3,94,,1547,517,33,04/01/2017,03/31/2018
+"05C0001737","Peninsula Eye Surgery Center","1128 W. El Camino Real","Mountain View",,"CA","94040",6509643200,97,3,0,98,91,7,2,94,86,12,2,94,86,11,3,94,,1117,511,46,04/01/2017,03/31/2018
+"05C0001750","Reagan St Surgery Center","10904 Reagan St","Los Alamitos",,"CA","90720",5625963140,95,4,1,97,86,10,4,91,84,13,3,94,82,15,3,93,,1287,438,34,04/01/2017,03/31/2018
+"05C0001756","The Endoscopy Center","700 Garden View Ct., Suite 101","Encinitas",,"CA","92024",7602742700,97,3,0,98,88,9,3,92,87,11,2,94,85,14,1,95,,1022,360,35,04/01/2017,03/31/2018
+"05C0001757","Grass Valley Outpatient Surgery Center, LP","408 Sierra College Dr","Grass Valley",,"CA","95945",5302712282,98,2,0,99,90,8,2,94,90,9,1,95,90,9,1,96,,1171,439,37,04/01/2017,03/31/2018
+"05C0001764","Santa Clarita Surgery Center","26357 Mcbean Pkwy. # 100","Santa Clarita",,"CA","91355",6617998300,98,2,0,99,89,9,2,94,88,11,1,95,85,13,2,94,,1222,398,33,04/01/2017,03/31/2018
+"05C0001778","Brentwood Surgery Center","2400 Balfour Rd. Ste. 320","Brentwood",,"CA","94513",9252402059,97,2,1,98,90,8,2,94,90,8,2,95,90,8,2,96,,1189,404,34,04/01/2017,03/31/2018
+"05C0001784","Golden Gate Endoscopy Center","3370 Geary Blvd","San Francisco",,"CA","94118",4153797500,,,,,,,,,,,,,,,,,"4",,,,,
+"05C0001803","Pacific Endoscopy","17815 Newhope St","Fountain Valley",,"CA","92708",4698936573,,,,,,,,,,,,,,,,,"4",,,,,
+"05C0001830","Aspen Surgery Center","133 La Casa Via, Ste. 150","Walnut Creek",,"CA","94598",9252108415,97,3,0,98,91,8,1,95,87,12,1,95,88,11,1,95,,1292,444,34,04/01/2017,03/31/2018
+"05C0001840","Oasis Surgery Center","815 Auto Center Dr.","Palmdale",,"CA","93551",6612066262,,,,,,,,,,,,,,,,,"4",,,,,
+"05C0001842","Scripps Encinitas Surgery Center","320 Santa Fe Dr., # Ll2","Encinitas",,"CA","92024",7606323900,97,3,0,98,92,7,1,95,89,10,1,95,85,14,1,95,,1263,486,38,04/01/2017,03/31/2018
+"05C0001860","Talbert Surgical Associates","7677 Center Ave, # 104","Huntington Beach",,"CA","92647",7148818722,,,,,,,,,,,,,,,,,"4",,,,,
+"05C0001863","Hacienda Surgery Center","4626 Willow Rd. Ste 100","Pleasanton",,"CA","94588",9257346744,98,2,0,99,90,8,2,94,88,11,1,95,87,12,1,95,,1036,345,33,04/01/2017,03/31/2018
+"05C0001867","Fountain Valley Surgery Center, LLC","11190 Warner Ave Suite 212","Fountain Valley",,"CA","92708",7143381650,,,,,,,,,,,,,,,,,"4",,,,,
+"05C0001870","North Bay Regional Surgery CTR","100 Rowland Way Ste 145","Novato",,"CA","94945",4152092510,98,1,1,99,88,9,3,93,87,11,2,95,88,10,2,95,,1282,399,31,04/01/2017,03/31/2018
+"05C0001879","Scripps Clinic","15004 Innovation Dr.","San Diego",,"CA","92128",8586786955,,,,,,,,,,,,,,,,,"4",,,,,
+"05C0001886","Walnut Creek Endoscopy","365 Lennon Lane Suite 100","Walnut Creek",,"CA","94598",9252780568,,,,,,,,,,,,,,,,,"4",,,,,
+"05C0001888","SUTTER VALLEY MEDICAL FOUNDATION","8011 Don Ave,","Stockton",,"CA","95209",2099553001,99,1,0,99,94,5,1,96,91,8,1,96,92,6,2,96,,1394,481,35,04/01/2017,03/31/2018
+"05C0001999","Sutter Medical Foundation","8200 Laguna Blvd","Elk Grove",,"CA","95758",9165445400,98,2,0,99,93,6,1,96,94,4,2,96,92,6,2,97,,816,250,31,04/01/2017,03/31/2018
+"05C0002045","Surgery Center of San Jose","2581 Samaritan Dr., Ste. 308","San Jose",,"CA","95124",6504048455,98,1,1,99,95,4,1,97,93,5,2,96,86,13,1,95,"3",668,66,10,04/01/2017,03/31/2018
+"05C0002058","UC Regents UCLA Dept of Medicine Professional Group","200 Medical Plaza Suite 365530","Los Angeles",,"CA","90095",6612537956,96,3,1,98,91,7,2,94,82,15,3,93,83,15,2,93,,1776,480,27,04/01/2017,03/31/2018
+"05C0002079","Palo Alto Medical Foundation for Healthcare, Research & Education Surgery Center San","301 Industrial Rd","San Carlos",,"CA","94070",6505964200,99,1,0,100,95,4,1,97,97,3,0,98,98,2,0,99,,468,123,26,04/01/2017,03/31/2018
+"05C0002080","Palo Alto Medical Foundation for Healthcare, Research & Education Surgery Center San","3120 Kearney St.","Fremont",,"CA","94538",5104983600,99,1,0,99,93,6,1,96,93,6,1,96,93,5,2,96,,2220,518,23,04/01/2017,03/31/2018
+"06C0001028","Kaiser Permanente Surgery CTR","2045 Franklin St","Denver",,"CO","80205",3037644420,,,,,,,,,,,,,,,,,"4",,,,,
+"06C0001058","Golden Ridge Surgery Center","660 Golden Ridge Rd., Ste. 110","Golden",,"CO","80401",3039631507,,,,,,,,,,,,,,,,,"4",,,,,
+"06C0001079","Summit View Surgery Center, L.L.C.","7730 S Broadway","Littleton",,"CO","80122",3037302376,96,3,1,98,92,7,1,96,89,8,3,94,85,13,2,94,,1594,511,32,04/01/2017,03/31/2018
+"06C0001080","Flatirons Surgery Center","70 Health Park Dr","Louisville",,"CO","80516",7208902721,98,2,0,99,90,9,1,94,87,11,2,94,84,15,1,94,,1175,343,29,04/01/2017,03/31/2018
+"06C0001085","Crown Point Surgery Center","9397 Crown Crest Blvd. Ste. 110","Parker",,"CO","80138",7209746499,99,1,0,99,94,5,1,96,88,10,2,95,89,10,1,96,,900,263,29,04/01/2017,03/31/2018
+"06C0001102","Northwest Regional ASC, LLC","10170 Church Ranch Way Ste. 110","Westminster",,"CO","80021",3033284400,99,0,1,99,93,6,1,96,92,8,0,95,90,9,1,96,,666,194,29,04/01/2017,03/31/2018
+"06C0001110","Harvard Park Surgery Center","1000 E. Harvard Ave.","Denver",,"CO","80210",3037785816,97,3,0,98,91,7,2,95,83,14,3,93,82,16,2,93,,1360,516,38,04/01/2017,03/31/2018
+"06C0001133","Greenwood Ambulatory Surgery Center, LLC","7447 E. Berry Ave. Ste. 100","Greenwood Village",,"CO","80111",7204934123,96,3,1,98,89,9,2,94,82,14,4,92,81,17,2,93,,1746,415,24,04/01/2017,03/31/2018
+"06C0001145","Kaiser Permanente","10240 Park Meadows Dr","Lonetree",,"CO","80124",3036495628,,,,,,,,,,,,,,,,,"4",,,,,
+"07C0001024","Fairfield Surgery Center, LLC","75 Kings Hwy Cutoff","Fairfield",,"CT","06824",2033372660,98,2,0,99,93,5,2,95,93,5,2,96,90,8,2,96,"2",1019,316,31,04/01/2017,03/31/2018
+"07C0001048","North Haven Surgery Center","52 Washington Ave., Ste. 1","North Haven",,"CT","06473",2032347727,98,2,0,99,89,9,2,93,83,16,1,94,82,17,1,93,,1283,371,29,04/01/2017,03/31/2018
+"09C0001001","Medstar Surgery Center","1145  19th St N.W., Suite 850","Washington",,"DC","20036",2022239040,,,,,,,,,,,,,,,,,"4",,,,,
+"10C0001025","Surgery Center at University Park","983 South Beneva Rd","Sarasota",,"FL","34232",9413655355,96,4,0,98,89,9,2,93,81,15,4,93,81,15,4,91,,1014,395,39,04/01/2017,03/31/2018
+"10C0001203","University Surgical Center, Inc.","7251 University Blvd.","Winter Park",,"FL","32792",4076770066,97,3,0,98,94,5,1,97,93,6,1,96,90,9,1,96,,1413,364,26,04/01/2017,03/31/2018
+"10C0001214","The Outpatient Center of Boynton Beach","2351 South Seacrest Blvd","Boynton Beach",,"FL","33435",5617325900,95,4,1,97,86,9,5,90,81,16,3,92,82,15,3,93,,1337,351,26,04/01/2017,03/31/2018
+"10C0001293","Winter Haven Ambulatory Surgical Center","325 Ave B Nw","Winter Haven",,"FL","33881",4698936573,97,3,0,99,90,7,3,94,87,11,2,95,87,11,2,95,,1506,499,33,04/01/2017,03/31/2018
+"10C0001302","Tamarac Surgery Center, LLC","4485 N. State Rd. 7","Lauderdale Lakes",,"FL","33319",9547350096,97,3,0,98,90,7,3,94,79,18,3,92,78,18,4,91,,961,247,26,04/01/2017,03/31/2018
+"10C0001313","Doctors Surgical Partnership LTD  dba Melbourne Same Day Surgery Center","1035 South Apollo Blvd","Melbourne",,"FL","32901",3214343581,,,,,,,,,,,,,,,,,"4",,,,,
+"10C0001332","Laser & Surgery Center of The Palm Beaches","3602 Kyoto Gardens Dr","Palm Beach Gardens",,"FL","33410",5617993388,97,3,0,98,88,9,3,92,85,12,3,94,86,12,2,94,,1454,546,38,04/01/2017,03/31/2018
+"10C0001354","Surgery Center of SW Florida, Inc","12631 Whitehall Dr","Ft. Myers",,"FL","33907",2397720500,,,,,,,,,,,,,,,,,"4",,,,,
+"10C0001362","Destin Surgery Center","4485 Furling Lane","Destin",,"FL","32541",8506507606,99,1,0,99,94,5,1,96,91,7,2,96,91,7,2,96,,1330,496,37,04/01/2017,03/31/2018
+"10C0001363","Doctors GI Partnership LTD dba Melbourne GI Center","1051 South Hickory St","Melbourne",,"FL","32901",3214343581,,,,,,,,,,,,,,,,,"4",,,,,
+"10C0001377","Orlando Opthamology Surgery Center","105 Bonnie Loch Ct","Orlando",,"FL","32806",4074280040,,,,,,,,,,,,,,,,,"4",,,,,
+"10C0001418","The Surgery Center at Jensen Beach, LLC","3995 Nw Goldenrod Rd","Jensen Beach",,"FL","34957",7724970020,97,3,0,98,88,9,3,92,88,10,2,94,85,14,1,94,,1408,627,45,04/01/2017,03/31/2018
+"10C0001428","South Florida Ambulatory Surgical Center, LLC","6110 Se 70th St","South Miami",,"FL","33143",3056623100,94,5,1,97,88,8,4,92,82,14,4,93,76,19,5,90,,1313,295,22,04/01/2017,03/31/2018
+"10C0001461","University Interventional Center","5102 N. Davis Hwy","Pensacola",,"FL","32503",8504395425,,,,,,,,,,,,,,,,,"4",,,,,
+"10C0001474","Murdock Surgery Center","1400 Education Way","Port Charlotte",,"FL","33948",4698936573,97,3,0,98,86,10,4,91,85,11,4,93,84,14,2,94,,1188,558,47,04/01/2017,03/31/2018
+"10C0001505","Lake Endoscopy Center","17355 S.E. 109th Terrace Rd","Summerfield",,"FL","34491",3522450846,,,,,,,,,,,,,,,,,"4",,,,,
+"10C0001512","Tlc Outpatient Surgery and Laser Center","201 West Guava St","Lady Lake",,"FL","32159",3523915875,96,3,1,98,86,11,3,91,84,13,3,93,84,14,2,94,,1237,667,54,04/01/2017,03/31/2018
+"10C0001528","Coral Ridge Outpatient Center","5301 North Dixie Hwy.","Oakland Park",,"FL","33334",9548323300,95,4,1,97,91,6,3,94,85,12,3,94,86,11,3,94,,1407,456,32,04/01/2017,03/31/2018
+"10C0001539","Broward Speciality Surgical Center","7261 Sheridan St. Suite 100a","Hollywood",,"FL","33024",9543224222,97,3,0,98,91,7,2,94,89,9,2,95,89,11,0,96,,1226,261,21,04/01/2017,03/31/2018
+"10C0001545","Surgicare of Miramar","14601 Sw 29th St, Suite #300","Miramar",,"FL","33027",4698936573,97,2,1,98,90,7,3,93,89,8,3,95,84,12,4,93,,1257,287,23,04/01/2017,03/31/2018
+"10C0001549","Titusville Center for Surgical Excellence","814 S. Washington Ave.","Titusville",,"FL","32780",3215676300,98,2,0,99,93,6,1,96,91,8,1,96,93,6,1,97,,1403,668,48,04/01/2017,03/31/2018
+"10C0001571","Surgery Centre of SW Florida","665 Del Prado Blvd S.","Cape Coral",,"FL","33990",2397723636,97,3,0,98,91,8,1,95,87,10,3,94,83,16,1,94,"2",1076,436,41,04/01/2017,03/31/2018
+"10C0001576","The Outpatient Center of Delray","4675 Linton Blvd Ste 101","Delray Beach",,"FL","33445",5614999585,94,5,1,96,91,6,3,94,85,12,3,93,83,14,3,93,,1728,610,35,04/01/2017,03/31/2018
+"11C0001006","Emory Healthcare","1365 Clifton Rd, Ne Suite Bt200","Atlanta",,"GA","30032",4047783348,98,2,0,99,89,7,4,93,90,7,3,95,87,11,2,95,,2204,388,18,04/01/2017,03/31/2018
+"11C0001049","Resurgens Surgical Center","5671 Peachtree Dunwoody Rd","Atlanta",,"GA","30342",4045318617,98,2,0,99,93,6,1,96,89,9,2,95,89,8,3,95,,1076,315,29,04/01/2017,03/31/2018
+"11C0001056","Endoscopy Center of Southeast Georgia, Inc","200 Maple Dr","Vidalia",,"GA","30474",9125381003,98,2,0,99,95,4,1,97,93,6,1,97,94,5,1,98,,802,275,34,04/01/2017,03/31/2018
+"11C0001085","Northwest Georgia Orthopaedic Surgery Center","2550 Windy Hill Rd. #218","Marietta",,"GA","30067",7709538058,98,2,0,99,92,7,1,95,90,9,1,95,86,13,1,95,,1321,312,24,04/01/2017,03/31/2018
+"11C0001164","Optim Surgery Center","210 East Derenne Ave.","Savannah",,"GA","31405",9126445300,95,4,1,97,88,9,3,93,87,11,2,95,85,12,3,93,,1551,490,32,04/01/2017,03/31/2018
+"11C0001177","East West Surgery Center","2041 Mesa Valley Way #125","Austell",,"GA","30106",6783098100,97,3,0,98,90,8,2,94,92,7,1,95,85,12,3,93,,1224,346,28,04/01/2017,03/31/2018
+"11C0001182","Roswell Surgery Center","1285 Hembree Rd., Suite 200c","Roswell",,"GA","30076",7707725520,99,1,0,99,92,7,1,95,89,10,1,95,89,10,1,96,,1387,382,28,04/01/2017,03/31/2018
+"11C0001192","Lawrenceville Surgery Center","758 Old Norcross Rd. Ste. 125","Lawrenceville",,"GA","30046",6789870820,98,2,0,99,93,6,1,96,87,11,2,95,89,10,1,96,,1212,344,28,04/01/2017,03/31/2018
+"11C0001205","Hamilton Ambulatory Surgery Center","1250  Broadrick Dr","Dalton",,"GA","30720",7068765000,,,,,,,,,,,,,,,,,"4",,,,,
+"11C0001234","Orthopaedic South Surgical Partners, LLC","6645 Lake Dr.","Morrow",,"GA","30260",6784224280,98,2,0,99,91,7,2,94,90,9,1,95,86,12,2,94,,1119,302,27,04/01/2017,03/31/2018
+"11C0001258","Thomas Eye Group","5995 Barfield Rd","Sandy Springs",,"GA","30328",6787817388,,,,,,,,,,,,,,,,,"4",,,,,
+"11C0001279","Surgical Center for Urology","290 Country Club Dr., Suite 240","Stockbridge",,"GA","30281",6785651806,,,,,,,,,,,,,,,,,"4",,,,,
+"11C0001307","Ortho Atlanta Surgery Center of Fayetteville, LLC","1265 W. Hwy 54, Ste. 103","Fayetteville",,"GA","30214",6782160771,,,,,,,,,,,,,,,,,"4",,,,,
+"11C0001362","Ortho Atlanta Surgery CTR Austell LLC","3672 Marathon Cir Ste 120","Austell",,"GA","30106",6789458551,,,,,,,,,,,,,,,,,"4",,,,,
+"11C0001370","Georgia Spine Surgery Center","1061 Dowdy Rd, Suite 103","Athens",,"GA","30606",7065439222,,,,,,,,,,,,,,,,,"4",,,,,
+"11C0001383","Hughston Surgical Center","6262 Veterans Pkwy Unit. B","Columbus",,"GA","31909",7064943434,96,3,1,98,90,8,2,94,90,9,1,96,95,5,0,98,,1304,463,36,04/01/2017,03/31/2018
+"11C0001460","RESURGENS EAST SURGERY CENTER, LLC","3241 Iris Drive, Suite 100","Covington",,"GA","30016",6784224280,,,,,,,,,,,,,,,,,"4",,,,,
+"12C0001012","Kaiser Permanente Honolulu Clinic - ASC","1010 Pensacola St","Honolulu",,"HI","96814",8085972611,,,,,,,,,,,,,,,,,"4",,,,,
+"12C0001100","Kaiser Wailuku Clinic - ASC","80 Mahalani St","Wailuku",,"HI","96793",8082436000,,,,,,,,,,,,,,,,,"4",,,,,
+"14C0001007","Hinsdale Surgical Center","908 N. Elm St Suite 401","Hinsdale",,"IL","60521",6307067142,98,2,0,99,90,8,2,94,89,9,2,95,87,12,1,95,,1262,463,37,04/01/2017,03/31/2018
+"14C0001027","Same Day Surgery 25 East","25 E. Washington","Chicago",,"IL","60602",3127263329,97,3,0,98,92,6,2,95,81,16,3,93,80,17,3,91,,1276,312,24,04/01/2017,03/31/2018
+"14C0001030","River North Same Day Surgery Center","1 E. Erie Ste. 200","Chicago",,"IL","60611",3126493939,97,3,0,98,93,6,1,96,85,13,2,94,88,11,1,95,,1184,289,24,04/01/2017,03/31/2018
+"14C0001041","North Shore Surgical Center","3725 W. Touhy Ave","Lincolnwood",,"IL","60712",8473247770,97,3,0,98,91,7,2,94,84,14,2,93,80,19,1,93,,1250,466,37,04/01/2017,03/31/2018
+"14C0001059","Rockford Endoscopy Center","401 Roxbury Rd","Rockford",,"IL","61107",8154847930,,,,,,,,,,,,,,,,,"4",,,,,
+"14C0001074","Effingham Surgical Partners, LLC","904 W. Temple Ave.","Effingham",,"IL","62401",2173421234,99,1,0,99,94,5,1,97,95,4,1,97,93,6,1,97,,1286,713,55,04/01/2017,03/31/2018
+"14C0001076","Carle Surgicenter","1702 South Mattis Ave.","Champaign",,"IL","61821",2173260047,98,2,0,99,97,3,0,98,90,7,3,95,91,7,2,96,"3",210,47,24,04/01/2017,03/31/2018
+"14C0001157","Physicians Surgery Center at Good Samaritan, LLC","2 Good Samaritan Way, Ste. 200","Mt. Vernon",,"IL","62864",6188995703,98,2,0,99,91,8,1,95,88,10,2,94,84,15,1,94,,851,299,35,04/01/2017,03/31/2018
+"15C0001058","The Endoscopy Center at St Francis","8051 South Emerson Ave","Indianapolis",,"IN","46237",3178574026,,,,,,,,,,,,,,,,,"4",,,,,
+"15C0001147","Parkview Inverness Surgery Center","8004 Carnegie Blvd.","Fort Wayne",,"IN","46804",2604343600,,,,,,,,,,,,,,,,,"4",,,,,
+"15C0001158","Terre Haute Surgical Center, LLC","227 East Mcallister Dr.","Terre Haute",,"IN","47802",8122344315,98,2,0,99,95,4,1,97,90,9,1,96,89,10,1,96,,1182,486,41,04/01/2017,03/31/2018
+"15C0001169","Indiana Specialty Surgery Center","1380 W. Arch Haven Ave.","Bloomington",,"IN","47403",8123301164,98,2,0,99,91,7,2,95,91,8,1,96,90,10,0,96,,1179,470,40,04/01/2017,03/31/2018
+"16C0001016","Surgery Center of Cedar Rapids","1075 1st Ave. Se","Cedar Rapids",,"IA","52402",3195584803,96,4,0,98,89,9,2,94,84,13,3,93,83,16,1,94,,1307,521,40,04/01/2017,03/31/2018
+"19C0001010","Eye Care Surgery Center, Inc","10423 Old Hammond Hwy","Baton Rouge",,"LA","70816",2259230960,,,,,,,,,,,,,,,,,"4",,,,,
+"19C0001053","Ambulatory Eye Surgery Center of Louisiana","3900 Veterans Blvd. #100","Metairie",,"LA","70002",5044551550,,,,,,,,,,,,,,,,,"4",,,,,
+"19C0001085","Lake Ambulatory Surgery Center","7145 Perkins Rd","Baton Rouge",,"LA","70808",2254085548,,,,,,,,,,,,,,,,,"4",,,,,
+"19C0001092","Advanced Surgical Concepts LLC","9118 Bluebonnet Centre Blvd.","Baton Rouge",,"LA","70809",2253682330,97,3,0,99,91,7,2,94,86,11,3,94,88,10,2,95,,967,202,21,04/01/2017,03/31/2018
+"19C0001106","Orthopedic Surgery Center","7301 Hennesy Blvd Ste 100","Baton Rouge",,"LA","70808",2257660050,,,,,,,,,,,,,,,,,"4",,,,,
+"19C0001109","Christus Cabrini Surgery Center, LLC","3436 Masonic Dr.","Alexandria",,"LA","71301",3184276500,99,1,0,99,91,7,2,95,91,8,1,96,89,10,1,96,,1055,324,31,04/01/2017,03/31/2018
+"19C0001113","Our Lady of The Lake Pontchartrain Surgery Center, LLC","4407 Hwy 190 E. Service Rd.","Covington",,"LA","70433",9852349700,98,2,0,99,93,6,1,96,89,9,2,95,88,11,1,95,,1293,439,34,04/01/2017,03/31/2018
+"19C0001133","Oil Center Surgical Plaza","1000 W. Pinhook Rd, Suite 204","Lafayette",,"LA","70503",3372898216,99,1,0,99,95,4,1,97,94,5,1,97,93,6,1,97,,2160,1002,46,04/01/2017,03/31/2018
+"20C0001012","Intermed Surgery Center","84 Marginal Way","Portland",,"ME","04101",2073472898,98,2,0,99,90,8,2,94,91,8,1,95,88,11,1,96,,1194,372,31,04/01/2017,03/31/2018
+"21C0001043","Kaiser Foundation Health Plan of The Mid-Atlantic States, Inc.","10810 Connecticut Ave","Kensington",,"MD","20895",3018167284,,,,,,,,,,,,,,,,,"4",,,,,
+"21C0001539","Gaithersburg Ambulatory Surgery Center","655 Watkins Mill Rd","Gaithersburg",,"MD","20879",3018166812,,,,,,,,,,,,,,,,,"4",,,,,
+"21C0001556","LARGO AMBULATORY SURGERY CENTER","1221 Mercantile Lane","Largo",,"MD","20774",3016185500,,,,,,,,,,,,,,,,,"4",,,,,
+"21C0001560","SOUTH BALTIMORE COUNTY MEDICAL CENTER ASC","1701 Twin Springs Road","Halethorpe",,"MD","21227",4107375757,,,,,,,,,,,,,,,,,"4",,,,,
+"21C0001590","Dialysis Access Services, LLC","1666 Sulphur Spring Rd","Arbutus",,"MD","21227",,,,,,,,,,,,,,,,,,"4",,,,,
+"21C0001594","Dialysis Access Services, LLC","2405 York Road, Suite 100","Timonium",,"MD","21093",,,,,,,,,,,,,,,,,,"4",,,,,
+"22C0001011","Worcester Surgical Center","300 Grove St","Worcester",,"MA","01605",5087540700,96,4,0,98,92,6,2,95,84,14,2,94,87,13,0,95,,1252,449,36,04/01/2017,03/31/2018
+"22C0001077","Cape Cod Surgery Center, Inc.","160 Falmouth Rd. Ste. B","Mashpee",,"MA","02649",7742384410,,,,,,,,,,,,,,,,,"4",,,,,
+"23C0001020","Surgical Care Center of Michigan","750 East Beltline Ne","Grand Rapids",,"MI","49525",6165886520,,,,,,,,,,,,,,,,,"4",,,,,
+"23C0001027","Lansing Surgery Center","1707 Lake Lansing Rd","Lansing",,"MI","48912",5172670033,98,2,0,99,90,8,2,94,87,12,1,94,87,12,1,95,,692,301,43,04/01/2017,03/31/2018
+"23C0001031","Genesis Surgery Center","3400 E Jolly Rd.","Lansing",,"MI","48910",5177083200,97,3,0,99,93,6,1,96,90,9,1,95,89,10,1,96,,1105,591,53,04/01/2017,03/31/2018
+"23C0001050","Northwest Michigan Surgery Center","4100 Park Forest Dr","Traverse City",,"MI","49684",2313928950,,,,,,,,,,,,,,,,,"4",,,,,
+"23C0001053","East Paris Surgical Center, LLC","1000 East Paris Ave S.E.","Grand Rapids",,"MI","49546",6164643430,,,,,,,,,,,,,,,,,"4",,,,,
+"23C0001061","West Bloomfield Surgery Center, LLC","2300 Haggerty Ste. 1055","West Bloomfield",,"MI","48323",2488966323,98,2,0,99,90,7,3,94,91,7,2,95,86,12,2,94,,1272,451,36,04/01/2017,03/31/2018
+"23C0001071","Pain Treatment Centers of Michigan, LLC","4450 Fashion Square Blvd., Ste. 200","Saginaw",,"MI","48603",9797907950,98,2,0,99,90,8,2,94,89,10,1,95,89,10,1,96,,1026,461,45,04/01/2017,03/31/2018
+"23C0001080","Walker Surgical Center, LLC","3300 Walker View Dr.","Walker",,"MI","49544",6165886560,,,,,,,,,,,,,,,,,"4",,,,,
+"23C0001085","Towne Centre Surgery Center, LLC","4599 Town Center Rd.","Saginaw",,"MI","48604",9894973096,,,,,,,,,,,,,,,,,"4",,,,,
+"23C0001109","Clarkston Surgery Center","5701 Bow Pointe Dr. Ste. 145","Clarkston",,"MI","48346",2489224800,98,2,0,99,93,5,2,95,89,9,2,95,88,11,1,96,,1225,538,44,04/01/2017,03/31/2018
+"23C0001114","Surgical Institute of Monroe","1051 S. Telegraph Rd Ste 100","Monroe",,"MI","48161",7348698701,,,,,,,,,,,,,,,,,"4",,,,,
+"24C0001010","Willmar Surgery Center","1320 South First St","Willmar",,"MN","56201",3202356506,97,3,0,98,92,7,1,96,81,18,1,92,83,16,1,94,,652,257,39,04/01/2017,03/31/2018
+"24C0001048","TRIA Orthopaedic Center","8100 Northland Dr","Bloomington",,"MN","55431",9528065321,98,2,0,99,92,6,2,95,92,7,1,96,92,7,1,97,,1569,515,33,04/01/2017,03/31/2018
+"24C0001060","Centracare Surgery Center","1900 Centracare Cir","St. Cloud",,"MN","56303",3202294964,,,,,,,,,,,,,,,,,"4",,,,,
+"24C0001062","Fairview Maple Grove Medical Center, LLC","14500 99th Ave North","Maple Grove",,"MN","55369",7638981438,99,1,0,99,93,6,1,96,91,7,2,95,89,9,2,95,,1354,396,29,04/01/2017,03/31/2018
+"24C0001074","Sanford Health Detroit Lakes Same Day Surgery Center","1245 Washington Ave.","Detroit Lakes",,"MN","56501",2188462078,,,,,,,,,,,,,,,,,"4",,,,,
+"24C0001084","Marshal Surgery Center, LLC","1521 Carlson St, Ste. 200","Marshall",,"MN","56258",5075321928,99,1,0,100,95,4,1,97,91,8,1,95,87,12,1,95,"2",682,314,46,04/01/2017,03/31/2018
+"24C0001089","University of Mn Health Clinics and Surgery Center","909 Fulton St Southeast","Minneapolis",,"MN","55455",6126727435,98,2,0,99,91,8,1,95,88,9,3,95,89,8,3,95,,1246,378,30,04/01/2017,03/31/2018
+"24C0001093","Monticello Surgery Center","1013 Hart Blvd","Monticello",,"MN","55362",7632712268,,,,,,,,,,,,,,,,,"4",,,,,
+"25C0001046","Columbus Orthopaedic Outpatient","640 Leigh Dr.","Columbus",,"MS","39705",6623287123,97,3,0,99,93,6,1,96,92,6,2,96,91,8,1,97,,1746,547,31,04/01/2017,03/31/2018
+"25C0001058","Center for Digestive Health","589 Garfield St","Tupelo",,"MS","38801",6623774173,96,3,1,98,89,7,4,93,90,9,1,95,89,11,0,96,,1834,460,25,04/01/2017,03/31/2018
+"26C0001021","Creekwood Surgery Center","211 Ne 54th St","Kansas City",,"MO","64118",8164554214,98,2,0,99,91,7,2,95,89,10,1,95,83,16,1,94,,1139,339,30,04/01/2017,03/31/2018
+"26C0001060","South County Outpatient Endoscopy Services, LP","5139 Mattis Rd. Ste. 100","St. Louis",,"MO","63128",3147299780,99,1,0,99,94,5,1,96,93,6,1,96,90,9,1,96,,1390,673,48,04/01/2017,03/31/2018
+"26C0001061","Manchester Ambulatory Surgery Center","1050 Old Des Peres Rd Suite 150","Saint Louis",,"MO","63131",3145692918,97,3,0,98,90,9,1,95,86,12,2,94,84,15,1,94,,1314,461,35,04/01/2017,03/31/2018
+"26C0001066","Midwest Digestive Health Center LLC","3601 Ne Ralph Powell Rd","Lees Summit",,"MO","64064",8165254440,98,2,0,99,96,3,1,97,92,7,1,96,90,9,1,96,,1203,454,38,04/01/2017,03/31/2018
+"26C0001069","Briarcliff Surgery Center","4150 N. Mulberry Dr, Ste. 100","Kansas City",,"MO","64116",8162144364,96,3,1,98,92,7,1,95,89,9,2,95,85,12,3,94,,1315,476,36,04/01/2017,03/31/2018
+"26C0001070","Liberty Ambulatory Surgery Center, LP","834 W. Kansas Ave.","Liberty",,"MO","64068",8168832004,97,3,0,98,92,7,1,95,89,9,2,95,88,10,2,95,,884,313,35,04/01/2017,03/31/2018
+"26C0001080","Mid Rivers Surgery Center","5401 Veterans Memoiral Parkway","St. Peters",,"MO","63376",6364410906,97,3,0,98,91,8,1,95,88,10,2,95,85,14,1,94,,1460,500,34,04/01/2017,03/31/2018
+"26C0001082","Chesterfield Ambulatory Surgery Center dba Chesterfield Surgery Center","17050 Baxter Rd Suite 110","Chesterfield",,"MO","63005",6365370122,98,2,0,99,94,5,1,96,89,10,1,95,87,12,1,95,,1366,507,37,04/01/2017,03/31/2018
+"26C0001087","Advanced Ambulatory Surgical Care","10448 Old Olive St Rd, Suite 100","Creve Coeur",,"MO","63141",3147438091,97,3,0,98,88,9,3,93,86,10,4,93,82,16,2,93,,1266,375,30,04/01/2017,03/31/2018
+"26C0001088","Surgery Center of Columbia","305 N Keene St. Ste. 107","Columbia",,"MO","65201",5732566272,96,4,0,98,93,6,1,96,89,10,1,95,89,10,1,96,,1179,532,45,04/01/2017,03/31/2018
+"26C0001093","St. Louis Surgical Center","760 Office Pkwy","Creve Coeur",,"MO","63141",3149954700,98,2,0,99,92,6,2,95,89,10,1,95,87,12,1,95,,1027,391,38,04/01/2017,03/31/2018
+"26C0001097","Riverside Ambulatory Surgery Center","100 Village Square","Hazelwood",,"MO","63042",3143738931,97,3,0,99,91,7,2,94,88,10,2,94,82,16,2,93,,1184,391,33,04/01/2017,03/31/2018
+"26C0001099","Manchester Ambulatory Surgery Center, LP","1040 Old Des Peres Rd.","Des Peres",,"MO","63131",3147752264,97,2,1,98,92,6,2,95,82,14,4,92,79,18,3,91,,1057,339,32,04/01/2017,03/31/2018
+"26C0001103","Cedar Oaks Surgery Center","706 Burkarth Rd","Warrensburg",,"MO","64093",6607478868,,,,,,,,,,,,,,,,,"4",,,,,
+"26C0001109","Landmark Surgery Center","9701 Landmark Parkway,suite 100","St. Louis",,"MO","63127",3147290100,99,1,0,99,91,7,2,95,90,9,1,95,83,17,0,94,,1237,416,34,04/01/2017,03/31/2018
+"26C0001112","Frontenac Surgery & Spine Care Center","10435 Clayton Rd. Ste. 110","Frontenac",,"MO","63131",3149953990,97,3,0,98,89,10,1,94,90,9,1,96,89,10,1,96,,1401,460,33,04/01/2017,03/31/2018
+"26C0001116","Mason Ridge Ambulatory Surgery Center LP","12855 N 40 Dr Suite 150","Saint Louis",,"MO","63141",3143361130,98,2,0,99,94,5,1,96,94,5,1,97,93,6,1,97,,1094,444,41,04/01/2017,03/31/2018
+"26C0001117","Twin Cities Ambulatory Surgery Center, LP","1101 W. Gannon Dr.","Festus",,"MO","63028",6369315997,96,4,0,98,91,7,2,95,84,14,2,94,79,20,1,93,,1003,422,42,04/01/2017,03/31/2018
+"26C0001138","Old Tesson Surgery Center","12639 Old Tesson Ste. 130","St. Louis",,"MO","63128",3147290785,96,4,0,98,91,7,2,94,87,11,2,94,84,14,2,93,,707,317,45,04/01/2017,03/31/2018
+"27C0001020","Yellowstone Surgery Center","1144 N. 28th St.","Billings",,"MT","59101",4062375900,98,2,0,99,90,9,1,95,88,11,1,95,91,8,1,97,,1255,413,33,04/01/2017,03/31/2018
+"27C0001022","Orthopedic Surgery Center, LLC","111 Sunnyview Lane","Kalispell",,"MT","59901",4062576700,,,,,,,,,,,,,,,,,"4",,,,,
+"27C0001026","POLSON HEALTH OUTPATIENT CENTER","106 Ridgewater Drive, Suite B","Polson",,"MT","59860",4068837709,,,,,,,,,,,,,,,,,"4",,,,,
+"29C0001000","Southwest Medical Associates Ambulatory Surgery Center","2450 West Charleston Blvd.","Las Vegas",,"NV","89102",7028778638,,,,,,,,,,,,,,,,,"4",,,,,
+"29C0001036","Parkway Surgery Center","100 N. Green Valley Pkwy. #125","Henderson",,"NV","89074",7026164954,96,4,0,98,89,8,3,93,84,15,1,94,82,15,3,92,,1093,332,30,04/01/2017,03/31/2018
+"29C0001073","Durango Outpatient Surgery Center","8530 W. Sunset Rd. Ste. 100","Las Vegas",,"NV","89113",7027895710,94,5,1,96,87,9,4,92,83,15,2,93,82,15,3,93,,950,230,24,04/01/2017,03/31/2018
+"29C0001102","Parkway Surgery Center at Horizon Ridge","10561 Jeffreys St., Ste. 120","Henderson",,"NV","89052",7027248900,98,2,0,99,90,8,2,94,92,6,2,96,88,12,0,96,,572,178,31,04/01/2017,03/31/2018
+"30C0001014","Dartmouth Hitchcock Ambulatory Surgery Center","100 Hitchcock Way","Manchester",,"NH","03104",6036291800,98,2,0,99,95,4,1,97,91,8,1,96,89,10,1,96,,2751,724,26,04/01/2017,03/31/2018
+"30C0001021","Hillside Surgery Center","14 Maple St, Ste. 110","Gilford",,"NH","03249",6035247514,,,,,,,,,,,,,,,,,"4",,,,,
+"30C0001024","Laconia Clinic Ambulatory Surgery Center","724 N. Main St.","Laconia",,"NH","03246",6035272760,,,,,,,,,,,,,,,,,"4",,,,,
+"30C0001031","Dartmough-Hitchcock Clinic","One Medical Center Dr","Lebanon",,"NH","03756",6036503052,99,1,0,99,93,6,1,96,93,6,1,96,90,8,2,96,,2611,831,32,04/01/2017,03/31/2018
+"31C0001099","Shore Outpatient Surgicenter, LLC","360 Rt. 70","Lakewood",,"NJ","08701",7329429835,96,4,0,98,87,9,4,92,84,13,3,93,80,18,2,92,,1224,424,35,04/01/2017,03/31/2018
+"31C0001118","Central Jersey Surgery Center, LLC","97 Corbett Way","Eatontown",,"NJ","07724",7324602777,98,2,0,99,89,9,2,94,86,12,2,94,83,15,2,93,,1084,367,34,04/01/2017,03/31/2018
+"31C0001126","Shrewsbury Surgery Center","655 Shrewsbury Ave.","Shrewsbury",,"NJ","07702",7324506000,99,1,0,99,90,7,3,94,91,8,1,96,90,8,2,96,,1180,364,31,04/01/2017,03/31/2018
+"31C0001150","Denville Surgery Center, LLC","3130 Route10 West Suite 200","Denville",,"NJ","07834",9733283475,97,3,0,98,90,8,2,94,86,12,2,93,82,16,2,93,,1326,451,34,04/01/2017,03/31/2018
+"31C0001152","Hackensack Endoscopy Center","170 Prospect Ave. #10","Hackensack",,"NJ","07601",2014980030,97,3,0,98,89,8,3,93,87,11,2,94,85,13,2,94,,1390,463,33,04/01/2017,03/31/2018
+"31C0001153","Toms River Surgery Center","1430 Hooper Ave. Ste. 301","Toms River",,"NJ","08753",7322402277,98,2,0,99,93,6,1,96,92,8,0,96,90,9,1,96,,1393,510,37,04/01/2017,03/31/2018
+"31C0001162","Suburban Endoscopy Center","799 Bloomfield Ave.","Verona",,"NJ","07044",9735711600,98,2,0,99,91,6,3,94,83,15,2,94,88,10,2,95,,1357,417,31,04/01/2017,03/31/2018
+"31C0001193","Lakewood Surgery Center, LLC","1215 Route 70, Ste. 2000","Lakewood",,"NJ","08701",7327191800,98,2,0,99,93,6,1,96,89,9,2,95,85,13,2,94,,1320,362,27,04/01/2017,03/31/2018
+"31C0001197","Metropolitan Surgery Center, LLC","433 Hackensack Ave Ll01","Hackensack",,"NJ","07601",2015276800,94,5,1,97,87,10,3,92,80,17,3,92,76,21,3,90,,1268,363,29,04/01/2017,03/31/2018
+"31C0001199","Northern Monmouth Regional Surgery Center","195 Route 9 South Ste. 210","Manalapan",,"NJ","07726",7323586500,98,2,0,99,89,9,2,94,87,12,1,95,85,15,0,95,,915,268,29,04/01/2017,03/31/2018
+"31C0001205","Endoscopy Center of Bergen County","80 Eisenhower Dr.","Paramus",,"NJ","07652",2013361100,98,2,0,99,86,11,3,91,89,10,1,95,86,13,1,94,,908,251,28,04/01/2017,03/31/2018
+"31C0001216","Ambulatory Surgery Center of Somerville, LLC","1 Us Hwy 206","Somerville",,"NJ","08876",9083938360,98,2,0,99,92,6,2,95,91,7,2,95,88,11,1,96,,1266,389,31,04/01/2017,03/31/2018
+"31C0001218","Millennium Surgical Center","2090 Springdale Rd., Suite A","Cherry Hill",,"NJ","08003",8567514555,97,3,0,98,92,6,2,95,87,10,3,95,86,11,3,94,,1476,326,22,04/01/2017,03/31/2018
+"31C0001253","Khs Ambulatory Surgery Center, LLC","405 Hurffville-Crosskeys Rd.","Sewell",,"NJ","08080",8565822072,98,2,0,99,93,5,2,96,87,11,2,95,85,12,3,93,,899,356,40,04/01/2017,03/31/2018
+"31C0001269","Surgical Specialists at Princeton","136 Main St. Ste. 100","Princeton",,"NJ","08540",6098532261,97,3,0,99,91,7,2,94,85,13,2,94,84,14,2,93,,1288,391,30,04/01/2017,03/31/2018
+"31C0001273","Liberty Ambulatory Surgery Center","377 Jersey Ave. Ste. 510","Jersey City",,"NJ","07302",2018783210,97,3,0,99,92,6,2,95,91,7,2,95,85,14,1,94,,987,211,21,04/01/2017,03/31/2018
+"31C0001316","Jackson Surgical Center LLC","27 S Cooks Bridge Rd Suite L2","Jackson",,"NJ","08527",9727633893,,,,,,,,,,,,,,,,,"4",,,,,
+"32C0001107","New Mexico Orthopaedic Surgery Center","201 Cedar Se, Suite 7650","Albuquerque",,"NM","87106",5057244395,95,5,0,97,90,7,3,94,85,12,3,94,83,15,2,93,,1193,335,28,04/01/2017,03/31/2018
+"32C0001119","ABQ Health Partners","5400 Gibson Blvd. Se","Albuquerque",,"NM","87104",5052627126,,,,,,,,,,,,,,,,,"4",,,,,
+"34C0001032","Iredell Surgical Center","1720 Davie Ave.","Statesville",,"NC","28677",7048710081,,,,,,,,,,,,,,,,,"4",,,,,
+"34C0001103","High Point Surgery Center","600 N. Lindsay St","High Point",,"NC","27262",3368786330,,,,,,,,,,,,,,,,,"4",,,,,
+"34C0001112","Novant Health South Park Surgery CTR","6035 Fairview Rd","Charlotte",,"NC","28210",3364147673,97,3,0,98,92,7,1,95,87,10,3,94,85,12,3,93,,1057,344,33,04/01/2017,03/31/2018
+"34C0001137","Carolinas Gastroenterology Center Ballantyne","4828 Airport Center Parkway","Charlotte",,"NC","28211",7042744974,,,,,,,,,,,,,,,,,"4",,,,,
+"34C0001138","Carolina Gastroenterology Center Medical Center Plaza","4828 Airport Center Parkway","Charlotte",,"NC","28211",7045744974,,,,,,,,,,,,,,,,,"4",,,,,
+"34C0001151","Hanover Medical Specialists PA","1515 Doctors Cir Hanover Medica","Wilmington",,"NC","28401",9107631219,,,,,,,,,,,,,,,,,"4",,,,,
+"34C0001154","Presbyterian SameDay Surgery Center at Ballantyne","14215 Ballantyne Corporate Place","Charlotte",,"NC","28277",3364147673,98,2,0,99,93,6,1,96,95,4,1,97,89,9,2,95,,634,142,22,04/01/2017,03/31/2018
+"34C0001159","Private Diagnostic Clinic, PLLC","Brier Creek Medical Pavillion, 10207 Cerny St., St","Raleigh",,"NC","27617",9196600620,96,3,1,98,91,8,1,95,90,9,1,96,86,13,1,95,,894,203,23,04/01/2017,03/31/2018
+"34C0001165","Wake Endoscopy Center, LLC","2601 Lake Dr. S 201","Raleigh",,"NC","27607",9193413529,96,4,0,98,93,6,1,96,86,12,2,94,87,12,1,95,"2",2193,394,18,04/01/2017,03/31/2018
+"34C0001168","Presbyterian SameDay Surgery Center at Huntersville","10030 Gilead Rd","Huntersville",,"NC","28078",7047467662,97,3,0,98,93,6,1,96,91,8,1,96,91,8,1,97,,1364,449,33,04/01/2017,03/31/2018
+"34C0001177","Union Health Services dba Union West Surgery Center","6068 Hwy 74 West","Indian Trail",,"NC","28079",7046671970,,,,,,,,,,,,,,,,,"4",,,,,
+"34C0001180","Novant Health Presbyterian Matthews Surgery CTR","710 Park Center Dr","Matthews",,"NC","28105",3364147673,98,2,0,99,90,7,3,93,88,9,3,94,85,11,4,93,,1747,395,23,04/01/2017,03/31/2018
+"35C0001025","Sanford Health - Dickinson Ambulatory Surgery CTR","2615 Fairway St","Dickinson",,"ND","58601",7014566000,,,,,,,,,,,,,,,,,"4",,,,,
+"36C0001097","Reynolds Rd Surgical Center LTD dba Wildwood Surgical Center","2865 North Reynolds Rd, Suite 190","Toledo",,"OH","43615",4195787547,,,,,,,,,,,,,,,,,"4",,,,,
+"36C0001140","Mercy Premium Surgery Center","5319 Hoag Dr","Elyria",,"OH","44035",4409306050,,,,,,,,,,,,,,,,,"4",,,,,
+"36C0001155","New Horizons Surgery Center, LLC","1167 Independence Ave.","Marion",,"OH","43302",7403755854,97,3,0,98,91,7,2,95,88,11,1,95,87,12,1,95,,996,366,37,04/01/2017,03/31/2018
+"36C0001191","Surgery Center of Canfield, LLC","4147 Westford Dr.","Canfield",,"OH","44406",3307021489,98,2,0,99,91,8,1,95,91,8,1,96,89,10,1,96,,1264,556,44,04/01/2017,03/31/2018
+"36C0001222","The Christ Hosptial Spine Surgery Center","4020 Smith Rd.","Cincinnati",,"OH","45209",5133381520,97,3,0,98,92,7,1,96,93,6,1,96,89,9,2,95,,1273,576,45,04/01/2017,03/31/2018
+"37C0001032","Mcgee Eye Surgery Center","1000 N. Lincoln Blvd. #150","Oklahoma City",,"OK","73104",4052328696,96,4,0,98,90,9,1,95,88,10,2,95,90,8,2,96,"2",3328,1239,37,04/01/2017,03/31/2018
+"37C0001055","Memorial Surgery Center, LLC","8131 S. Memorial Dr., Suite 107","Tulsa",,"OK","74133",9182525114,95,4,1,97,89,8,3,93,83,14,3,93,80,17,3,92,,870,362,42,04/01/2017,03/31/2018
+"38C0001030","Kaiser Permanante dba Interstate Ambulatory Surgery Center","3500 N Interstate Ave.","Portland",,"OR","97227",9713103089,,,,,,,,,,,,,,,,,"4",,,,,
+"38C0001031","Willamette Surgery Center","1445 State St","Salem",,"OR","97301",5033653965,97,3,0,98,92,7,1,96,86,11,3,94,86,12,2,94,,1816,636,35,04/01/2017,03/31/2018
+"38C0001032","Kaiser Permanente dba Skyline Ambulatory Surgery Center","5125 Skyline Rd. South","Salem",,"OR","97306",9713103082,,,,,,,,,,,,,,,,,"4",,,,,
+"38C0001046","Northwest Gastroenterology Clinic, LLC","1130 Nw 22nd Ave, Ste. 410","Portland",,"OR","97210",5032297178,,,,,,,,,,,,,,,,,"4",,,,,
+"38C0001052","Aesthetic Surgery Center of Eugene Inc","2550 Willakenzie Ste #1","Eugene",,"OR","97401",5414340922,,,,,,,,,,,,,,,,,"4",,,,,
+"38C0001054","Cascade Spine Center","6464 Sw Borland Rd Ste A-3","Tualatin",,"OR","97062",9714043366,97,3,0,99,95,4,1,97,86,12,2,95,88,10,2,95,,1042,418,40,04/01/2017,03/31/2018
+"38C0001056","Center for Specialty Surgery, LLC","11782 Sw Barnes Rd. #200","Portland",,"OR","97225",5039064306,98,2,0,99,91,7,2,95,85,14,1,95,90,9,1,96,,867,272,31,04/01/2017,03/31/2018
+"38C0001067","The Orthopedic and Sports Medicine Center","1515 Nw 18th Ave Suite 300","Portland",,"OR","97209",5032248399,97,3,0,98,92,7,1,95,88,11,1,95,86,12,2,94,,1215,381,31,04/01/2017,03/31/2018
+"38C0001074","East Portland Surgery Center","9200 Se 91st Ave. Ste. 100","Portland",,"OR","97086",5037726160,96,4,0,98,90,9,1,94,85,13,2,94,84,14,2,94,,1652,539,33,04/01/2017,03/31/2018
+"38C0001085","Kaiser Permanente Sunnybrook Surgery Center","9900 Se Sunnyside Rd.","Clackamas",,"OR","97015",5035714047,,,,,,,,,,,,,,,,,"4",,,,,
+"39C0001017","Southwestern Ambulatory Surgery Center","500 Lewis Run Rd, Ste.202","West Mifflin",,"PA","15122",4124696964,97,3,0,98,89,9,2,93,81,16,3,92,80,17,3,92,,1011,476,47,04/01/2017,03/31/2018
+"39C0001051","Ophthalmology Surgery and Laser Center","92 Tuscarora St.","Harrisburg",,"PA","17104",7172332020,,,,,,,,,,,,,,,,,"4",,,,,
+"39C0001153","The Surgery Center at Cranberry","105 Brandt Dr, Suite 101","Cranberry Twp",,"PA","16066",7247721766,,,,,,,,,,,,,,,,,"4",,,,,
+"39C0001168","Hershey Outpatient Surgery Center","15 Hope Dr.","Hershey",,"PA","17033",7175208200,96,4,0,98,91,8,1,95,88,10,2,94,85,13,2,94,,1249,405,32,04/01/2017,03/31/2018
+"39C0001176","The Reading Hospital Surgi Center at Spring Ridge","2603 Keiser Blvd.","Wyomissing",,"PA","19610",4846283079,99,1,0,100,93,6,1,96,93,7,0,97,93,6,1,97,,1931,565,29,04/01/2017,03/31/2018
+"39C0001226","Gamma Surgery Center","107 Gamma Dr.","Pittsburgh",,"PA","15238",4129637917,97,3,0,98,89,9,2,93,87,11,2,94,84,14,2,94,,1311,582,44,04/01/2017,03/31/2018
+"39C0001239","Hazleton Surgery Center, LLC","50 Moisey Dr. Ste. 100","Hazleton",,"PA","18202",5705016500,99,1,0,99,91,7,2,95,89,9,2,95,88,11,1,95,,897,352,39,04/01/2017,03/31/2018
+"42C0001004","Anmed Health Medicus Surgery Center, LLC","107 Professional Ct.","Anderson",,"SC","29621",8647167900,,,,,,,,,,,,,,,,,"4",,,,,
+"42C0001017","Carolina Surgical Center","198 Wouth Hedlong Ave","Rock Hill",,"SC","29730",8033274664,97,3,0,98,93,6,1,96,88,11,1,95,89,11,0,96,,1088,354,33,04/01/2017,03/31/2018
+"42C0001038","Stand GI Endoscopy Center","945 82nd Parkway","Myrtle Beach",,"SC","29572",8438392584,,,,,,,,,,,,,,,,,"4",,,,,
+"42C0001047","Florence Surgery and Laser Center, LLC","400 North Cashua Dr","Florence",,"SC","29501",8436649398,,,,,,,,,,,,,,,,,"4",,,,,
+"42C0001049","South Carolina Health Services","40 Okatie Center Blvd S Ste 125","Okatie",,"SC","29909",8437058823,98,2,0,99,91,7,2,95,87,12,1,94,88,11,1,95,,1252,661,53,04/01/2017,03/31/2018
+"42C0001078","Southeastern Spine Institute","1106 Chuck Dawley Blvd","Mt Pleasant",,"SC","29464",4698936573,95,4,1,97,89,9,2,93,87,11,2,94,89,9,2,95,"2",1095,439,40,04/01/2017,03/31/2018
+"43C0001023","Sanford Health - Sanford Clinic Aberdeen Surgical CTR","2905 3rd Ave Se","Aberdeen",,"SD","57401",6056264200,,,,,,,,,,,,,,,,,"4",,,,,
+"43C0001028","Sanford Health - Sanford Clinic Watertown Surgical CTR","901 4th St. Nw","Watertown",,"SD","57201",6058828780,,,,,,,,,,,,,,,,,"4",,,,,
+"44C0001000","Physicians Surgery Center of Knoxville","1819 Clinch Ave, Ste. 206","Knoxville",,"TN","37916",8655222949,97,3,0,98,91,7,2,95,89,9,2,95,89,9,2,95,,1393,464,33,04/01/2017,03/31/2018
+"44C0001001","Eye Surgery Center of Nashville","310 25th Ave North, Suite 105","Nashville",,"TN","37203",6153299023,98,2,0,99,93,5,2,96,89,10,1,95,89,10,1,96,,1158,537,46,04/01/2017,03/31/2018
+"44C0001004","Memphis Surgery Center","1044 Cresthaven Rd.","Memphis",,"TN","38119",9016821516,,,,,,,,,,,,,,,,,"4",,,,,
+"44C0001008","Northridge Surgery Center","647 Myatt Dr","Madison",,"TN","37115",6158688942,97,2,1,98,92,7,1,96,87,12,1,94,88,10,2,95,,1243,534,43,04/01/2017,03/31/2018
+"44C0001025","Baptist Plaza Surgicare, LP","300 20th Ave. N 8th Floor","Nashville",,"TN","37203",6152841335,97,3,0,98,93,6,1,96,90,8,2,95,91,7,2,95,,887,245,28,04/01/2017,03/31/2018
+"44C0001054","Physician's Pavilion Surgery Center","545 Stonecrest Pkwy","Smyrna",,"TN","37167",6152203720,98,2,0,99,93,6,1,96,89,10,1,95,90,9,1,96,,1064,327,31,04/01/2017,03/31/2018
+"44C0001073","Baptist Ambulatory Surgery Center","312 21st. Ave. North","Nashville",,"TN","37203",6153217330,97,3,0,98,92,7,1,95,89,9,2,95,89,9,2,95,,1322,389,29,04/01/2017,03/31/2018
+"44C0001087","Clarksville Surgery Center","793 Weatherly Dr.","Clarksville",,"TN","37043",9316451373,97,3,0,99,92,7,1,95,91,8,1,96,90,9,1,96,,1477,471,32,04/01/2017,03/31/2018
+"44C0001088","Middle Tennessee Ambulatory Surgery Center, LP","1800 Medical Center Pkwy Ste. 120","Murfreesboro",,"TN","37129",6158497500,97,3,0,98,91,8,1,95,89,10,1,95,88,11,1,96,,1272,376,30,04/01/2017,03/31/2018
+"44C0001097","Mountain Empire Surgery Center","601 Med Tech Pkwy","Johnson City",,"TN","37604",4236101020,99,1,0,99,92,7,1,95,88,11,1,95,86,12,2,95,,958,310,32,04/01/2017,03/31/2018
+"44C0001104","Saint Thomas Outpatient Neurosurgical Center","4230 Harding Rd., Suite 901","Nashville",,"TN","37205",6153417472,,,,,,,,,,,,,,,,,"4",,,,,
+"44C0001112","Parkwest Surgery Center","9430 Parkwest Blvd. Ste. 210","Knoxville",,"TN","37923",8655310494,97,3,0,98,90,7,3,93,88,10,2,95,89,9,2,95,,974,338,35,04/01/2017,03/31/2018
+"44C0001119","St. Thomas Campus Surgicare","4230 Harding Pike, 300 Plaza East","Nashville",,"TN","37205",6157831260,97,3,0,98,93,6,1,96,89,10,1,96,89,10,1,96,,1221,465,38,04/01/2017,03/31/2018
+"44C0001124","Ambulatory Surgical Associates, LLC","725 Kings Ln,","Tullahoma",,"TN","37388",9314551976,98,2,0,99,93,6,1,96,89,10,1,95,90,9,1,96,,1506,616,41,04/01/2017,03/31/2018
+"44C0001133","Baptist Plaza Surgicare, LP","2011 Church St. Plaza 1, Lower Lever","Nashville",,"TN","37203",6155154052,97,2,1,98,91,7,2,95,89,9,2,95,88,10,2,95,,1231,348,28,04/01/2017,03/31/2018
+"44C0001137","Upper Cumberland Physicians Surgery Center","467 N. Whitney Av.","Cookeville",,"TN","38501",9315285007,97,3,0,98,93,6,1,96,88,11,1,95,88,11,1,96,,1179,451,38,04/01/2017,03/31/2018
+"44C0001140","Saint Francis Surgery Center","5999 Park Ave","Memphis",,"TN","38119",9018181080,,,,,,,,,,,,,,,,,"4",,,,,
+"44C0001160","Patient Partners, LLC","890 N. Blue Jay Way","Gallatin",,"TN","37066",6155759000,97,3,0,99,93,5,2,96,88,11,1,95,88,11,1,96,,1348,461,34,04/01/2017,03/31/2018
+"44C0001161","Franklin Endoscopy Center, LLC","9160 Carothers Pkwy","Franklin",,"TN","37067",6155506066,98,2,0,99,92,7,1,95,88,11,1,95,86,13,1,94,,1181,394,33,04/01/2017,03/31/2018
+"44C0001166","Lebanon Endoscopy Center","100 Physicians Way, Ste 340","Lebanon",,"TN","37090",6154669532,,,,,,,,,,,,,,,,,"4",,,,,
+"44C0001169","Providence Surgery Center","5002 Crossings Cir Ste. 110","Mt. Juliet",,"TN","37122",6155539100,95,4,1,97,90,8,2,94,86,12,2,94,85,13,2,94,,825,230,28,04/01/2017,03/31/2018
+"44C0001186","Maury Regional Surgery Center","1003 Reserve Blvd # 210","Spring Hill",,"TN","37174",9314892644,,,,,,,,,,,,,,,,,"4",,,,,
+"45C0001009","Doctors Outpatient Surgicenter","3534 Vista Rd","Pasadena",,"TX","77504",7139470330,96,4,0,98,91,8,1,95,82,16,2,93,81,16,3,92,,1223,360,29,04/01/2017,03/31/2018
+"45C0001018","Conroe Surgery Center","1501 River Pointe Dr, #200","Conroe",,"TX","77304",4698936573,98,2,0,99,91,8,1,95,87,11,2,94,87,12,1,95,,1140,424,37,04/01/2017,03/31/2018
+"45C0001021","West Houston Surgery Center","970 Campbell Rd.","Houston",,"TX","77024",7133442290,95,4,1,97,90,8,2,94,84,12,4,93,83,14,3,92,,1410,347,25,04/01/2017,03/31/2018
+"45C0001039","Baylor Surgicare","3920 Worth St.","Dallas",,"TX","75246",2148202581,97,3,0,99,93,6,1,96,91,8,1,96,91,8,1,97,,1069,323,30,04/01/2017,03/31/2018
+"45C0001046","Physicians Day Surgery CTR","3930 Crutcher St","Dallas",,"TX","75246",2148206240,98,2,0,99,93,6,1,96,89,10,1,96,88,11,1,96,,1220,338,28,04/01/2017,03/31/2018
+"45C0001077","United Surgery Center Southeast","12700 N Featherwood Dr., Ste. 100","Houston",,"TX","77034",2814813903,97,3,0,98,92,7,1,95,84,14,2,94,77,21,2,92,,1424,327,23,04/01/2017,03/31/2018
+"45C0001091","Garland Surgicare Partners, LTD","530 Clara Bartow Blvd, Ste. 100","Garland",,"TX","75042",9724942400,97,2,1,98,89,9,2,94,87,9,4,94,86,12,2,94,,1026,325,32,04/01/2017,03/31/2018
+"45C0001133","Valley View Surgicare Partners","5744 Lbj Freeway #200","Dallas",,"TX","75240",9724904333,97,3,0,98,90,8,2,94,90,9,1,95,86,13,1,94,,1300,275,21,04/01/2017,03/31/2018
+"45C0001149","Memorial Hermann Surgery Center Woodlands Parkway, LLC","1441 Woodstead Ct Ste. 100","The Woodlands",,"TX","77380",2813630058,98,2,0,99,93,6,1,96,92,7,1,96,90,9,1,96,,1187,285,24,04/01/2017,03/31/2018
+"45C0001191","Baylor Surgicare at Bedford","1600 Central Dr., Suite 180","Bedford",,"TX","76022",8175711999,99,1,0,99,93,6,1,96,91,8,1,96,90,9,1,96,,966,263,27,04/01/2017,03/31/2018
+"45C0001194","Bay Area Endoscopy Center, LC","444 Fm 1959 Ste B","Houston",,"TX","77034",2814819400,97,2,1,98,89,8,3,93,87,12,1,94,85,14,1,94,,1055,263,25,04/01/2017,03/31/2018
+"45C0001196","Baylor Surgicare at Oakmont","7200 Oakmont Blvd.","Fort Worth",,"TX","76132",8177323300,98,2,0,99,93,6,1,96,92,7,1,96,91,8,1,97,,1232,340,28,04/01/2017,03/31/2018
+"45C0001205","Desoto Surgicare Partners, LLC","7992 West Virginia Dr.","Dallas",,"TX","75237",9722832400,97,3,0,98,89,8,3,93,81,15,4,93,80,16,4,91,,1098,325,30,04/01/2017,03/31/2018
+"45C0001214","Baylor Surgicare at Plano Parkway","4031 W. Plano Parkway. Ste 100","Plano",,"TX","75024",4093260202,97,3,0,98,93,6,1,96,84,15,1,94,86,12,2,94,,1055,247,23,04/01/2017,03/31/2018
+"45C0001221","Victoria Surgery Center","105 James Coleman Dr.","Victoria",,"TX","77904",3615780234,,,,,,,,,,,,,,,,,"4",,,,,
+"45C0001233","Mill Country Memorial Surgery Center","204 Gateway North","Marble Falls",,"TX","78654",8306937974,,,,,,,,,,,,,,,,,"4",,,,,
+"45C0001240","Beaumont Surgical Affiliates","3560 College St.","Beaumont",,"TX","77701",4099818902,96,4,0,98,93,6,1,96,88,9,3,95,87,11,2,95,,1493,525,35,04/01/2017,03/31/2018
+"45C0001243","Northwest Surgery","17322 Red Oak Dr","Houston",,"TX","77090",4698936573,96,4,0,98,91,8,1,95,86,12,2,94,80,18,2,92,,1000,298,30,04/01/2017,03/31/2018
+"45C0001245","Corpus Christi Surgicare, LTD","3636 S. Alameda Ste. A","Corpus Christi",,"TX","78411",3618532200,96,4,0,98,93,5,2,95,90,8,2,95,88,10,2,95,,1391,338,24,04/01/2017,03/31/2018
+"45C0001247","Paso Del Norte Surgery Center","125 W. Castellano","El Paso",,"TX","79912",9155328200,96,4,0,98,92,6,2,95,91,8,1,96,87,12,1,95,,1318,341,26,04/01/2017,03/31/2018
+"45C0001250","Shoreline Surgery Center, LLC","718 Elizabeth St.","Corpus Christi",,"TX","78404",3618823204,97,3,0,99,92,6,2,95,88,10,2,95,87,11,2,95,,1049,325,31,04/01/2017,03/31/2018
+"45C0001257","Baylor Surgicare Partners, LTD","350 S. I35 East","Denton",,"TX","76205",9403231393,97,3,0,99,95,4,1,97,90,9,1,96,89,10,1,96,,1074,335,31,04/01/2017,03/31/2018
+"45C0001264","Texan Surgery Center","7000 N. Mopac Expressway, Ste. 120","Austin",,"TX","78731",5123420900,97,2,1,98,86,11,3,92,82,14,4,93,81,17,2,93,,731,266,36,04/01/2017,03/31/2018
+"45C0001267","The Surgery Center of Nacogdoches","4948 Ne Stallings Dr","Nacagdoches",,"TX","75965",9365683595,97,2,1,98,91,7,2,94,88,9,3,94,87,10,3,94,,1235,376,30,04/01/2017,03/31/2018
+"45C0001274","The Surgery Center","6370 N Navarro","Victoria",,"TX","77904",3615708311,98,2,0,99,92,7,1,95,94,6,0,97,93,7,0,98,,1262,448,35,04/01/2017,03/31/2018
+"45C0001277","Texas Endoscopy, LLC","6405 W. Parker Rd., Suite 370","Plano",,"TX","75093",9724739292,99,1,0,99,94,4,2,96,92,7,1,96,93,6,1,97,,841,239,28,04/01/2017,03/31/2018
+"45C0001298","North Houston Endoscopy and Surgery","275 Lantern Bend, Ste. 400","Houston",,"TX","77090",2814405797,97,3,0,98,90,8,2,94,86,11,3,94,83,14,3,93,,1002,311,31,04/01/2017,03/31/2018
+"45C0001301","Grapevine Surgicare","2040 W. St. Hwy. 114","Grapevine",,"TX","76051",8174104300,99,1,0,99,93,6,1,96,93,6,1,96,90,10,0,97,,984,232,24,04/01/2017,03/31/2018
+"45C0001307","Texas Orthopedics Surgery Center","4700 Seton Center Pkwy, Ste. 100","Austin",,"TX","78759",5124391006,97,3,0,98,93,6,1,96,88,11,1,95,87,12,1,95,,1370,377,28,04/01/2017,03/31/2018
+"45C0001315","Park Cities Surgery Center","6901 Snider Plaza #300","University Park",,"TX","75205",2147066901,98,2,0,99,94,5,1,96,94,4,2,96,88,11,1,95,,1444,308,21,04/01/2017,03/31/2018
+"45C0001318","Baylor Surgicare at Carrollton","4780  North Josey Lane","Carrollton",,"TX","75010",9723952210,98,2,0,99,92,7,1,96,94,5,1,96,90,9,1,96,,1323,317,24,04/01/2017,03/31/2018
+"45C0001338","San Antonio Endocsopy Center","8550 Datapoint, Suite 100","San Antonio",,"TX","78229",2106157232,98,2,0,99,93,5,2,96,91,8,1,96,90,9,1,96,,1384,441,32,04/01/2017,03/31/2018
+"45C0001344","Texas Surgical Center","5609 Deauville Blvd.","Midland",,"TX","79706",4326994224,96,3,1,98,92,6,2,95,90,8,2,96,90,8,2,96,,1129,321,28,04/01/2017,03/31/2018
+"45C0001351","Theda Oaks Endoscopy and Surgery Center","19226 Stone Hill, # 103","San Antonio",,"TX","78258",2102680100,93,6,1,96,86,10,4,91,79,17,4,92,77,20,3,91,,1099,267,24,04/01/2017,03/31/2018
+"45C0001355","Baylor Surgicare at Plano","1701 Ohio Dr.","Plano",,"TX","75093",2142913000,98,2,0,99,91,7,2,94,90,9,1,96,86,12,2,94,,1113,308,28,04/01/2017,03/31/2018
+"45C0001357","Physician Surgical Center of Fort Worth, LLP","975 Haskell St.","Fort Worth",,"TX","76107",8175700230,97,2,1,98,92,6,2,95,90,9,1,96,88,11,1,96,,1206,335,28,04/01/2017,03/31/2018
+"45C0001363","Memorial Hermann Endoscopy CTR North Freeway","1900 N. Loop West Ste 550","Houston",,"TX","77018",7134572750,,,,,,,,,,,,,,,,,"4",,,,,
+"45C0001364","Rockwall Ambulatory Surgery Center","825 West Yellowjacket Ln","Rockwall",,"TX","75087",9727726166,96,4,0,98,92,7,1,95,89,10,1,95,88,11,1,96,,1407,358,25,04/01/2017,03/31/2018
+"45C0001369","Memorial Hermann Surgery Center Northwest","1631 North Loop W Ste. 300","Houston",,"TX","77008",7133431806,,,,,,,,,,,,,,,,,"4",,,,,
+"45C0001370","Memorial Hermann Texas International Endoscopy Center","6620 Main St. Ste 1500","Houston",,"TX","77030",7135208432,98,2,0,99,92,6,2,95,92,6,2,96,89,9,2,96,,1060,242,23,04/01/2017,03/31/2018
+"45C0001373","Rockwell Health Surgery Center","6435 S. Fm 549 Ste. 101","Heath",,"TX","75032",9727229003,97,2,1,98,94,5,1,96,94,5,1,96,93,5,2,97,,1023,271,26,04/01/2017,03/31/2018
+"45C0001374","El Paso Day Surgery","1300 Murchison Dr., Suite 200","El Paso",,"TX","79902",9155949333,97,3,0,99,89,8,3,93,90,8,2,96,84,15,1,94,,1294,298,23,04/01/2017,03/31/2018
+"45C0001384","Tuscan Surgery Center at Las Colinas, LLC","701 Tuscan Dr, Suite 100","Irving",,"TX","75039",2144421900,98,2,0,99,92,7,1,95,91,8,1,96,90,8,2,95,,1209,307,25,04/01/2017,03/31/2018
+"45C0001391","Texas Endoscopy Centers LLC dba Texas Endoscopy at Independence Medical Village","8080 Independence Parkway Suite 160","Plano",,"TX","75025",9729083010,97,3,0,99,92,7,1,96,95,4,1,97,93,6,1,97,,952,291,31,04/01/2017,03/31/2018
+"45C0001393","North Garland Surgery Center","7150 N. George Bush Hwy Ste. 101","Garland",,"TX","75044",2147031800,98,2,0,99,93,6,1,96,93,6,1,96,88,11,1,96,,1193,325,27,04/01/2017,03/31/2018
+"45C0001396","Centennial ASC, L.P.","4401 Coit Rd #100","Frisco",,"TX","75035",4698936573,96,3,1,97,88,9,3,93,85,12,3,94,82,16,2,93,,979,206,21,04/01/2017,03/31/2018
+"45C0001406","Memorial Hermann Surgery Center The Woodlands","9200 Pinecroft #200","The Woodlands",,"TX","77380",2812979546,98,1,1,98,91,8,1,95,86,12,2,95,86,13,1,95,,1203,265,22,04/01/2017,03/31/2018
+"45C0001412","Hill County Surgery Center","801 E. Whitestone Blvd. Ste. 100","Cedar Park",,"TX","78613",5125282000,97,3,0,98,94,5,1,96,87,10,3,94,89,9,2,96,,1681,408,24,04/01/2017,03/31/2018
+"45C0001421","Memorial Hermann Surgery Center-Richmond","1517 Thompson Rd. #100","Richmond",,"TX","77469",2813445447,97,3,0,99,93,6,1,96,89,9,2,94,86,11,3,94,,1187,259,22,04/01/2017,03/31/2018
+"45C0001422","Lone Star Endoscopy CTR LLC","180 Bear Creek Parkway","Keller",,"TX","76248",8173373671,97,3,0,98,92,6,2,95,95,5,0,98,93,6,1,97,,1307,375,29,04/01/2017,03/31/2018
+"45C0001442","Memorial Hermann Surgery Center- Kingsland LLC","21720 Kingsland Blvd, Suite 101","Katy",,"TX","77450",2815795655,98,1,1,99,94,4,2,96,89,10,1,95,90,9,1,96,,1062,295,28,04/01/2017,03/31/2018
+"45C0001443","Memorial Hermann Surgery Center Southwest","7789 Southwest Freeways Ste. 200","Houston",,"TX","77074",7133433100,,,,,,,,,,,,,,,,,"4",,,,,
+"45C0001446","Memorial Hermann Surgery Center Texas Medical Center","6400 Fannin Ste 1500","Houston",,"TX","77030",7137907700,96,4,0,98,92,6,2,95,88,9,3,95,85,13,2,94,,1488,287,19,04/01/2017,03/31/2018
+"45C0001447","Memorial Hermann Surgery Center - Katy","23920 Katy Freeway, Ste. 200","Katy",,"TX","77494",2816443200,96,3,1,97,90,8,2,94,88,10,2,94,87,10,3,94,,1073,236,22,04/01/2017,03/31/2018
+"45C0001449","Memorial Hermann Surgical Center Sugar Land","17510 West Grand Pkwy Ste. 200","Sugar Land",,"TX","77479",2812381600,97,2,1,98,92,7,1,96,89,9,2,95,86,12,2,94,,1456,320,22,04/01/2017,03/31/2018
+"45C0001458","Northwest Surgery Center, LLP","11111 Research Blvd., Suite Ll3","Austin",,"TX","78759",5123494020,98,2,0,99,92,7,1,96,85,13,2,94,86,13,1,95,,1031,256,25,04/01/2017,03/31/2018
+"45C0001471","Baylor Surgicare at Granbury","1717 Paluxy Rd.","Granbury",,"TX","76048",8175798863,98,2,0,99,94,5,1,96,93,6,1,97,93,6,1,97,,1332,545,41,04/01/2017,03/31/2018
+"45C0001481","Hyde Park Surgery Center","4611 Guadalupe St., # 100","Austin",,"TX","78751",5124202303,96,4,0,98,89,9,2,94,85,12,3,94,86,11,3,94,,1313,333,25,04/01/2017,03/31/2018
+"45C0001486","Baylor Surgicare at Mansfield","280 Regency Parkway","Mansfield",,"TX","76063",8174532744,99,1,0,99,95,4,1,97,95,4,1,97,94,5,1,97,,1339,291,22,04/01/2017,03/31/2018
+"45C0001509","Medical Park Tower Surgery Center","1301 West 38th St, Suite 109","Austin",,"TX","78705",5123543000,93,6,1,96,90,8,2,94,79,17,4,92,77,21,2,91,,1387,454,33,04/01/2017,03/31/2018
+"45C0001513","Memorial Hermann Surgery Center - Memorial Village","1120 Business Center Dr. Ste. 110","Houston",,"TX","77043",7133371111,95,4,1,97,92,7,1,95,83,13,4,93,81,17,2,93,,1275,279,22,04/01/2017,03/31/2018
+"45C0001522","The Surgery Center at Williamson dba Williamson Surgery Center","301 Seton Pkwy, Ste 200","Round Rock",,"TX","78665",5128614214,98,2,0,99,94,5,1,96,91,7,2,95,89,9,2,95,,521,178,34,04/01/2017,03/31/2018
+"45C0001536","Memorial Hermann Surgery Center Kirby Glen","2459 South Braeswood Blvd","Houston",,"TX","77030",7135298600,,,,,,,,,,,,,,,,,"4",,,,,
+"45C0001570","Lone Star Endoscopy Center LLC","1001 Surrey Lane","Flower Mound",,"TX","75022",2145136300,97,3,0,99,94,4,2,96,94,5,1,97,93,6,1,97,,1086,285,26,04/01/2017,03/31/2018
+"45C0001597","NORTH PINES SURGERY CENTER, LLC","4019 I-45 North, Suite 150","Conroe",,"TX","77304",9366418181,,,,,,,,,,,,,,,,,"4",,,,,
+"45C0001606","Us Cardio of Sa LLC","6830 Heuermann Rd","San Antonio",,"TX","78256",2108024350,,,,,,,,,,,,,,,,,"4",,,,,
+"45C0001607","Memorial Hermann Surgery Center Pinecroft",,,,"TX",".",,96,4,0,98,88,10,2,93,86,10,4,94,83,13,4,93,"2",2092,479,23,04/01/2017,03/31/2018
+"45C0001621","Ambulatory Surgery Center at Lbj","5550 Kelley St","Houston",,"TX","77026",7135569129,,,,,,,,,,,,,,,,,"4",,,,,
+"45C0001622","Methodist Allen Surgery Center","1125 Raintree Cirlce Suite 200","Allen",,"TX","75013",9725694500,,,,,,,,,,,,,,,,,"4",,,,,
+"46C0001003","Ihc Health Services dba Intermountain Avenues Surgical Center","359  East 8th Ave","Salt Lake City",,"UT","84103",8015072959,97,3,0,98,91,7,2,95,92,6,2,95,88,10,2,95,,1021,283,28,04/01/2017,03/31/2018
+"46C0001004","Mckay Dee Surgical Center","3903 Harrison Blvd., Ste. 100","Ogden",,"UT","84403",8013873600,97,3,0,99,91,7,2,95,89,10,1,95,87,11,2,95,,1344,365,27,04/01/2017,03/31/2018
+"49C0001009","Surgicenter of Central Virginia","1500 Dixon St. Ste. 101","Fredericksburg",,"VA","22401",5403715349,97,3,0,98,93,5,2,96,87,11,2,94,87,11,2,95,,1218,480,39,04/01/2017,03/31/2018
+"49C0001017","Kaiser Permanente Tysons Corner Medical Center ASC","8008 Westpark Drie","Mc Lean",,"VA","22102",7032876400,,,,,,,,,,,,,,,,,"4",,,,,
+"49C0001025","STONY POINT SURGERY CENTER, LLC","8700 Stony Point Parkway, Suite 100","Richmond",,"VA","23235",8047754500,,,,,,,,,,,,,,,,,"4",,,,,
+"49C0001034","Mary Immaculate Ambulatory","12720 Mcmanus Blvd. Ste. 103","Newport News",,"VA","23602",7573697000,97,3,0,99,92,7,1,95,84,15,1,93,81,17,2,93,,998,306,31,04/01/2017,03/31/2018
+"49C0001044","St. Mary's Ambulatory Surgery Center","1501 Maple Ave. Ste. 300","Richmond",,"VA","23226",8042877878,98,2,0,99,92,6,2,95,88,12,0,96,87,11,2,95,,881,257,29,04/01/2017,03/31/2018
+"49C0001047","Bon Secours Surgery Center at Virginia Beach","828 Healthy Way, Suite 115","Virginia Beach",,"VA","23462",7754948070,97,3,0,98,92,6,2,95,90,8,2,95,87,11,2,95,,834,310,37,04/01/2017,03/31/2018
+"49C0001049","Bon Secours Surgery Center at Harbour View","5818 Harbour View Blvd. Ste. 102","Suffolk",,"VA","23435",7576735832,96,4,0,98,90,8,2,94,87,12,1,94,86,12,2,94,,1026,333,33,04/01/2017,03/31/2018
+"50C0001048","Tacoma Ambulatory Surgery Center","209 Martin Luther King Jr Way","Tacoma",,"WA","98405",2065963590,,,,,,,,,,,,,,,,,"4",,,,,
+"50C0001095","Puget Sound Gastroetnerology at Kirkland/Evergreen Endo CTR","11800 Ne 128th St Suite 100","Kirkland",,"WA","98034",4258994500,,,,,,,,,,,,,,,,,"4",,,,,
+"50C0001130","Seattle Endoscopy Center","11027 Meridian Ave. N. Ste. 100","Seattle",,"WA","98133",2063654492,,,,,,,,,,,,,,,,,"4",,,,,
+"50C0001146","Everett Clinic Kemp Surgery Center","3927 Rucker Ave","Everett",,"WA","98201",4252853906,,,,,,,,,,,,,,,,,"4",,,,,
+"50C0001152","The Vancouver Clinic","700 Ne 87th Ave.","Vancouver",,"WA","98664",3603973462,,,,,,,,,,,,,,,,,"4",,,,,
+"50C0001157","Edmonds Endoscopy Center","21600 Hwy 99, Ste. 260","Edmonds",,"WA","98026",4257742650,,,,,,,,,,,,,,,,,"4",,,,,
+"50C0001226","Fremont Endoscopy Center","501 N. 34th St. Ste. 101","Seattle",,"WA","98103",2068381777,,,,,,,,,,,,,,,,,"4",,,,,
+"50C0001280","Bellevue Ambulatory Surgery Center","11511 Ne 10th St","Bellevue",,"WA","98004",5092417026,,,,,,,,,,,,,,,,,"4",,,,,
+"50C0001311","Providence Surgery and Procedure Center","16528 E Desmet Ct A2100","Spokane Valley",,"WA","99216",5099448960,,,,,,,,,,,,,,,,,"4",,,,,
+"52C0001005","Ssm Health Surgery CTR On Regent St","1025 Regent St","Madison",,"WI","53715",6082593570,96,4,0,98,91,8,1,95,83,14,3,93,86,13,1,95,,836,427,51,04/01/2017,03/31/2018
+"52C0001006","Aurora Advanced  Healthcare: North Shore Surgical Center","7007 N. Range Line Rd.","Milwaukee",,"WI","53209",2625327092,,,,,,,,,,,,,,,,,"4",,,,,
+"52C0001011","Ssm Health Surgery/Digestive Health CTR On Park St","700 South Park St","Madison",,"WI","53715",6082593510,98,2,0,99,92,7,1,95,90,9,1,95,87,12,1,95,,1109,424,38,04/01/2017,03/31/2018
+"52C0001057","East Mequon Surgery Center, LLC","12203 N. Corporate Parkway","Mequon",,"WI","53092",4146511023,,,,,,,,,,,,,,,,,"4",,,,,
+"52C0001066","Aspirus Stevens Point Surgery Center","5409 Vern Holmes Dr.","Stevens Point",,"WI","54481",7153421015,,,,,,,,,,,,,,,,,"4",,,,,
+"52C0001098","Vascare Mayfair LLC","805 N. Mayfair Rd.","Wauwatosa",,"WI","53226",4149886773,,,,,,,,,,,,,,,,,"4",,,,,
+"52C0001113","Aurora Surgery CTR Germantown","West 180 North 11070 River Lane Rd","Germantown",,"WI","53222",2625329777,,,,,,,,,,,,,,,,,"4",,,,,
+"53C0001010","Teton Outpatient Services","150 Buffalo Way","Jackson",,"WY","83002",3077338677,98,2,0,99,90,9,1,95,88,10,2,95,91,8,1,97,,1123,323,29,04/01/2017,03/31/2018
+"53C0001018","Sheridan Surgical CTR","1524 West 5th St","Sheridan",,"WY","82801",3706727874,,,,,,,,,,,,,,,,,"4",,,,,
+"55C0001001","Palo Alto Medical Foundation Camino Surgery Division","701 E. El Camino Real I Nw","Mountain View",,"CA","94040",6504048357,98,2,0,99,89,9,2,93,91,7,2,96,91,8,1,96,,2566,610,24,04/01/2017,03/31/2018
+"55C0001028","The Surgery Center of Alta Bates Summit Medical Center LLC","3875 Telegraph Ave","Oakland",,"CA","94609",5105472244,,,,,,,,,,,,,,,,,"4",,,,,
+"55C0001055","San Fernando Valley Surgery Center L.P.","11550 Indian Hills Rd., Suite 160","Mission Hills",,"CA","91345",8182562100,96,3,1,98,92,6,2,95,84,14,2,94,84,14,2,94,,1166,366,31,04/01/2017,03/31/2018
+"55C0001083","Sacramento Midtown Endoscopy Center","3941 J. St, Ste. 460","Sacramento",,"CA","95819",9167336940,97,3,0,99,88,9,3,93,85,13,2,94,82,17,1,93,,675,220,33,04/01/2017,03/31/2018
+

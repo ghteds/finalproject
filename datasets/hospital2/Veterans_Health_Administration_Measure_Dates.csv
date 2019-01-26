@@ -1,0 +1,45 @@
+Measure Name,Measure ID,Measure Start Quarter,Measure Start Date,Measure End Quarter,Measure End Date
+Median Time from ED Arrival to ED Departure for Admitted ED Patients,ED-1b,1Q2017,1012017,4Q2017,12312017
+Admit Decision Time to ED Departure Time for Admitted Patients,ED-2b,1Q2017,1012017,4Q2017,12312017
+Median Time to Fibrinolysis,OP-1,1Q2017,1012017,4Q2017,12312017
+Median Time from ED Arrival to ED Departure for Discharged ED Patients,OP-18b,1Q2017,1012017,4Q2017,12312017
+Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,OP-2,1Q2017,1012017,4Q2017,12312017
+Median Time from ED Arrival to Provider Contact for ED patients,OP-20,1Q2017,1012017,4Q2017,12312017
+Median Time to Pain Management for Long Bone Fracture,OP-21,1Q2017,1012017,4Q2017,12312017
+Head CT or MRI Scan Results for Acute Ischemic Stroke or Hemorrhagic Stroke Patients who Received Head CT or MRI Scan Interpretation Within 45 minutes of ED Arrival,OP-23,1Q2017,1012017,4Q2017,12312017
+Median Time to Transfer to Another Facility for Acute Coronary Intervention- Reporting Rate,OP-3b,1Q2017,1012017,4Q2017,12312017
+Aspirin at Arrival,OP-4,1Q2017,1012017,4Q2017,12312017
+Median Time to ECG,OP-5,1Q2017,1012017,4Q2017,12312017
+Hospital Acquired Potentially-Preventable Venous Thromboembolism,VTE-6,1Q2017,1012017,4Q2017,12312017
+Patients Assessed and Given Influenza Vaccination,IMM-2,1Q2017,1012017,4Q2017,12312017
+Willingness to Recommend this Hospital,Q22,1Q2017,1012017,4Q2017,12312017
+Overall Rating of Hospital,Q21,1Q2017,1012017,4Q2017,12312017
+Care Transition,Composite 7 (Q23 to 25),1Q2017,1012017,4Q2017,12312017
+Discharge Information,Composite 6 Q19 & Q20,1Q2017,1012017,4Q2017,12312017
+Quietness of Hospital Environment,Q9,1Q2017,1012017,4Q2017,12312017
+Cleanliness of Hospital Environment,Q8,1Q2017,1012017,4Q2017,12312017
+Communication about Medicines,Composite 5 Q16 & Q17,1Q2017,1012017,4Q2017,12312017
+Pain Management,Composite 4 Q13 & Q14,1Q2017,1012017,4Q2017,12312017
+Responsiveness of Hospital Staff,Composite 3 Q4 & Q11,1Q2017,1012017,4Q2017,12312017
+Communication with Doctors,Composite 2 Q5 to Q7,1Q2017,1012017,4Q2017,12312017
+Communication with Nurses,Composite 1 Q1 to Q3,1Q2017,1012017,4Q2017,12312017
+Death rate for heart attack patients,MORT-30-AMI,3Q2014,7012014,2Q2017,6302017
+Death rate for chronic obstructive pulmonary disease patients,MORT-30-COPD,3Q2014,7012014,2Q2017,6302017
+Death rate for heart failure patients,MORT-30-HF,3Q2014,7012014,2Q2017,6302017
+Death rate for pneumonia patients,MORT-30-PN,3Q2014,7012014,2Q2017,6302017
+Rate of readmission for heart attack patients,READM-30-AMI,3Q2014,7012014,2Q2017,6302017
+Rate of readmission for chronic obstructive pulmonary disease patients,READM-30-COPD,3Q2014,7012014,2Q2017,6302017
+Rate of readmission for heart failure patients,READM-30-HF,3Q2014,7012014,2Q2017,6302017
+Rate of readmission for pneumonia patients,READM-30-PN,3Q2014,7012014,2Q2017,6302017
+PSI_10,PSI_10,4Q2015,10012015,2Q2017,6302017
+PSI_11,PSI_11,4Q2015,10012015,2Q2017,6302017
+PSI_12,PSI_12,4Q2015,10012015,2Q2017,6302017
+PSI_13,PSI_13,4Q2015,10012015,2Q2017,6302017
+PSI_14,PSI_14,4Q2015,10012015,2Q2017,6302017
+PSI_15,PSI_15,4Q2015,10012015,2Q2017,6302017
+PSI_3,PSI_3,4Q2015,10012015,2Q2017,6302017
+PSI_4,PSI_4,4Q2015,10012015,2Q2017,6302017
+PSI_6,PSI_6,4Q2015,10012015,2Q2017,6302017
+PSI_7,PSI_7,4Q2015,10012015,2Q2017,6302017
+PSI_8,PSI_8,4Q2015,10012015,2Q2017,6302017
+PSI_9,PSI_9,4Q2015,10012015,2Q2017,6302017
